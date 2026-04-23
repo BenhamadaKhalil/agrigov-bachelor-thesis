@@ -1,0 +1,57 @@
+% ---------- Packages & Global Settings ----------
+
+% Page geometry
+\usepackage[a4paper,left=2cm,right=2.5cm,top=2.5cm,bottom=2.5cm,bindingoffset=1cm]{geometry}
+
+% Encoding & fonts
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc} % if using lualatex/xelatex, you can remove this
+\usepackage{lmodern}
+
+% Language
+\usepackage[english]{babel}
+
+% Graphics
+\usepackage{graphicx}
+\graphicspath{{images/}}
+
+% Spacing
+\usepackage{setspace}
+\onehalfspacing
+
+% Math
+\usepackage{amsmath, amssymb}
+
+% Better formatting
+\usepackage{titlesec}
+\usepackage{caption}
+
+% Bibliography (biblatex)
+\usepackage{csquotes} % recommended with biblatex
+\usepackage[style=ieee,backend=biber]{biblatex}
+\addbibresource{references.bib}
+
+% Links (load after most packages)
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=black,
+	citecolor=blue,
+	urlcolor=blue
+}
+
+
+\usepackage{float}
+\usepackage{booktabs}
+
+% Code blocks
+% NOTE: minted requires compiling with -shell-escape.
+\usepackage{minted}
+
+%-----splitimg----
+\usepackage{subcaption}
+
+%-----link redirection----
+\usepackage{hyperref}
+%---
+\usepackage{qrcode}

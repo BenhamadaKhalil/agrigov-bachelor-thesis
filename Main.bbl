@@ -1,0 +1,577 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{Chetibietal2026}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=f886f33c687e15e97fe496f1585f0079}{%
+           family={Chetibi},
+           familyi={C\bibinitperiod},
+           given={Mahmoud\bibnamedelima Meriem},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8529bd140b1aa1dca37e04bde77dc731}{%
+           family={Menzri},
+           familyi={M\bibinitperiod},
+           given={Ibtissem},
+           giveni={I\bibinitperiod}}}%
+        {{hash=ca1b22b3db34c53a4c381b672f51ed4c}{%
+           family={Fradi},
+           familyi={F\bibinitperiod},
+           given={Asma},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{dfa07967971a7cde5a104fdc6e7d5b94}
+      \strng{fullhash}{7bd8d6bc0c404b3c77479e979cad36aa}
+      \strng{fullhashraw}{7bd8d6bc0c404b3c77479e979cad36aa}
+      \strng{bibnamehash}{7bd8d6bc0c404b3c77479e979cad36aa}
+      \strng{authorbibnamehash}{7bd8d6bc0c404b3c77479e979cad36aa}
+      \strng{authornamehash}{dfa07967971a7cde5a104fdc6e7d5b94}
+      \strng{authorfullhash}{7bd8d6bc0c404b3c77479e979cad36aa}
+      \strng{authorfullhashraw}{7bd8d6bc0c404b3c77479e979cad36aa}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Beam Journal of Economic Studies}
+      \field{number}{1}
+      \field{title}{Digital Agriculture as a Strategic Option for Achieving Food Security in Algeria: an Analytical Approach between Potential and Challenges}
+      \field{volume}{10}
+      \field{year}{2026}
+      \field{pages}{563\bibrangedash 579}
+      \range{pages}{17}
+    \endentry
+    \entry{Seltetal2026}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=6643b2502a5f987561d046e87029d6fb}{%
+           family={Selt},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8ff4357b64ea267db32fbb91f93c652d}{%
+           family={Berini},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d886ac4159ccdb632f6f397ee28500af}{%
+           family={Boumaraf},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e03778ac6fa7b99e0cffcf03d2800fac}{%
+           family={Hadjadj},
+           familyi={H\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7690fe8529e0a1c3c38568e1da7aac03}{%
+           family={Benrazek},
+           familyi={B\bibinitperiod},
+           given={A.-E.},
+           giveni={A\bibinithyphendelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{301b95f90aba3cba07316df0c3cfd095}
+      \strng{fullhash}{1c4531a6d6b5a85cfe73010abf7944fa}
+      \strng{fullhashraw}{1c4531a6d6b5a85cfe73010abf7944fa}
+      \strng{bibnamehash}{1c4531a6d6b5a85cfe73010abf7944fa}
+      \strng{authorbibnamehash}{1c4531a6d6b5a85cfe73010abf7944fa}
+      \strng{authornamehash}{301b95f90aba3cba07316df0c3cfd095}
+      \strng{authorfullhash}{1c4531a6d6b5a85cfe73010abf7944fa}
+      \strng{authorfullhashraw}{1c4531a6d6b5a85cfe73010abf7944fa}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ITEGAM-JETIA}
+      \field{number}{58}
+      \field{title}{Deep Learning Applications in Agriculture and Rural Development: Toward Smarter, More Sustainable Food Systems}
+      \field{volume}{12}
+      \field{year}{2026}
+      \field{pages}{75\bibrangedash 86}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.5935/jetia.v12i58.2868
+      \endverb
+    \endentry
+    \entry{Mohammadetal2025}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=09b538cb649e9da3215d79f7938bccc6}{%
+           family={Mohammad},
+           familyi={M\bibinitperiod},
+           given={Anber\bibnamedelimb Abraheem\bibnamedelima Shlash},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=55d7fb94d8e403d110898adaf850bd6d}{%
+           family={Mohammad},
+           familyi={M\bibinitperiod},
+           given={Suleiman\bibnamedelima Ibrahim},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=9b6b727a808c2889b19983a6ee4eb2d9}{%
+           family={Al-Daoud},
+           familyi={A\bibinithyphendelim D\bibinitperiod},
+           given={Khaleel\bibnamedelima Ibrahim},
+           giveni={K\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \strng{namehash}{fa935fc581f74d9cd0af9de0eb892c87}
+      \strng{fullhash}{2463474bebdd3e7a1ef5d7c9bf0d758a}
+      \strng{fullhashraw}{2463474bebdd3e7a1ef5d7c9bf0d758a}
+      \strng{bibnamehash}{2463474bebdd3e7a1ef5d7c9bf0d758a}
+      \strng{authorbibnamehash}{2463474bebdd3e7a1ef5d7c9bf0d758a}
+      \strng{authornamehash}{fa935fc581f74d9cd0af9de0eb892c87}
+      \strng{authorfullhash}{2463474bebdd3e7a1ef5d7c9bf0d758a}
+      \strng{authorfullhashraw}{2463474bebdd3e7a1ef5d7c9bf0d758a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Research on World Agricultural Economy}
+      \field{number}{3}
+      \field{title}{Digital Platforms and Agricultural Marketing: Bridging Gaps between Farmers and Consumers}
+      \field{volume}{6}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.30564/rwae.v6i3.1570
+      \endverb
+    \endentry
+    \entry{benzadri2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=2206ddade85cffcf95e7bce02263a04d}{%
+           family={BENZADRI},
+           familyi={B\bibinitperiod},
+           given={Zakaria},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{2206ddade85cffcf95e7bce02263a04d}
+      \strng{fullhash}{2206ddade85cffcf95e7bce02263a04d}
+      \strng{fullhashraw}{2206ddade85cffcf95e7bce02263a04d}
+      \strng{bibnamehash}{2206ddade85cffcf95e7bce02263a04d}
+      \strng{authorbibnamehash}{2206ddade85cffcf95e7bce02263a04d}
+      \strng{authornamehash}{2206ddade85cffcf95e7bce02263a04d}
+      \strng{authorfullhash}{2206ddade85cffcf95e7bce02263a04d}
+      \strng{authorfullhashraw}{2206ddade85cffcf95e7bce02263a04d}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Project specification document, University Constantine 2}
+      \field{title}{AgriGov Market: A Digital Platform for Direct Agricultural Trade and Logistics}
+      \field{year}{2025}
+    \endentry
+    \entry{CIHEAM2025}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=8a00843bdd2956e0445c2ed475e2806e}{%
+           family={{CIHEAM}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {International Centre for Advanced Mediterranean Agronomic Studies}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{8a00843bdd2956e0445c2ed475e2806e}
+      \strng{fullhash}{8a00843bdd2956e0445c2ed475e2806e}
+      \strng{fullhashraw}{8a00843bdd2956e0445c2ed475e2806e}
+      \strng{bibnamehash}{8a00843bdd2956e0445c2ed475e2806e}
+      \strng{authorbibnamehash}{8a00843bdd2956e0445c2ed475e2806e}
+      \strng{authornamehash}{8a00843bdd2956e0445c2ed475e2806e}
+      \strng{authorfullhash}{8a00843bdd2956e0445c2ed475e2806e}
+      \strng{authorfullhashraw}{8a00843bdd2956e0445c2ed475e2806e}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Discussion on traditional agricultural market structures and intermediaries}
+      \field{title}{Mediterranean Agriculture and Food Systems Report}
+      \field{year}{2025}
+    \endentry
+    \entry{wolfert2017}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=68667a28e4f24f061c4c36c2dd2638aa}{%
+           family={Wolfert},
+           familyi={W\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=204f921818cd6fe62bb6a94b89a72dba}{%
+           family={Ge},
+           familyi={G\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b2114d62c84ecabb5630508805216cc6}{%
+           family={Verdouw},
+           familyi={V\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6e7fc363ecb093d0086a7f0bb610be7c}{%
+           family={Bogaardt},
+           familyi={B\bibinitperiod},
+           given={M.-J.},
+           giveni={M\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{45ad00e38bd02ff5e841d863484af7a9}
+      \strng{fullhash}{b40129590937b3bf2c744b83a56e49ff}
+      \strng{fullhashraw}{b40129590937b3bf2c744b83a56e49ff}
+      \strng{bibnamehash}{b40129590937b3bf2c744b83a56e49ff}
+      \strng{authorbibnamehash}{b40129590937b3bf2c744b83a56e49ff}
+      \strng{authornamehash}{45ad00e38bd02ff5e841d863484af7a9}
+      \strng{authorfullhash}{b40129590937b3bf2c744b83a56e49ff}
+      \strng{authorfullhashraw}{b40129590937b3bf2c744b83a56e49ff}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Agricultural Systems}
+      \field{title}{Big Data in Smart Farming – A review}
+      \field{volume}{153}
+      \field{year}{2017}
+      \field{pages}{69\bibrangedash 80}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.agsy.2017.01.023
+      \endverb
+    \endentry
+    \entry{dennis2015}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=9da4736e8ec078ff9ba7d4ede2ab7473}{%
+           family={Dennis},
+           familyi={D\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ec593b1f8227c9e7b8070888171abbf8}{%
+           family={Wixom},
+           familyi={W\bibinitperiod},
+           given={Barbara\bibnamedelima Haley},
+           giveni={B\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=01ec21ab48cca9e436c6e74453a6bd30}{%
+           family={Roth},
+           familyi={R\bibinitperiod},
+           given={Roberta\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{a93d21af79cb510591183000cb982b78}
+      \strng{fullhash}{6ec5c242f5f350643af8ccf7d2cfb174}
+      \strng{fullhashraw}{6ec5c242f5f350643af8ccf7d2cfb174}
+      \strng{bibnamehash}{6ec5c242f5f350643af8ccf7d2cfb174}
+      \strng{authorbibnamehash}{6ec5c242f5f350643af8ccf7d2cfb174}
+      \strng{authornamehash}{a93d21af79cb510591183000cb982b78}
+      \strng{authorfullhash}{6ec5c242f5f350643af8ccf7d2cfb174}
+      \strng{authorfullhashraw}{6ec5c242f5f350643af8ccf7d2cfb174}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{6th}
+      \field{title}{Systems Analysis and Design}
+      \field{year}{2015}
+    \endentry
+    \entry{pressman2014}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=4d3f81788d99cf425c4b6e0a454baab0}{%
+           family={Pressman},
+           familyi={P\bibinitperiod},
+           given={Roger\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=13b3d71ce7fd3614b4e2e9ce804597f3}{%
+           family={Maxim},
+           familyi={M\bibinitperiod},
+           given={Bruce\bibnamedelima R.},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Education}%
+      }
+      \strng{namehash}{da6ec91488daec8c3c9eddf18c78dad8}
+      \strng{fullhash}{da6ec91488daec8c3c9eddf18c78dad8}
+      \strng{fullhashraw}{da6ec91488daec8c3c9eddf18c78dad8}
+      \strng{bibnamehash}{da6ec91488daec8c3c9eddf18c78dad8}
+      \strng{authorbibnamehash}{da6ec91488daec8c3c9eddf18c78dad8}
+      \strng{authornamehash}{da6ec91488daec8c3c9eddf18c78dad8}
+      \strng{authorfullhash}{da6ec91488daec8c3c9eddf18c78dad8}
+      \strng{authorfullhashraw}{da6ec91488daec8c3c9eddf18c78dad8}
+      \field{extraname}{1}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{8th}
+      \field{title}{Software Engineering: A Practitioner's Approach}
+      \field{year}{2014}
+    \endentry
+    \entry{Pressman2024}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=4d3f81788d99cf425c4b6e0a454baab0}{%
+           family={Pressman},
+           familyi={P\bibinitperiod},
+           given={Roger\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=6d5834698177e7f42a31c60b63338910}{%
+           family={Maxim},
+           familyi={M\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Education}%
+      }
+      \strng{namehash}{1f17b00b2221354f3c7885eebfdac8f0}
+      \strng{fullhash}{1f17b00b2221354f3c7885eebfdac8f0}
+      \strng{fullhashraw}{1f17b00b2221354f3c7885eebfdac8f0}
+      \strng{bibnamehash}{1f17b00b2221354f3c7885eebfdac8f0}
+      \strng{authorbibnamehash}{1f17b00b2221354f3c7885eebfdac8f0}
+      \strng{authornamehash}{1f17b00b2221354f3c7885eebfdac8f0}
+      \strng{authorfullhash}{1f17b00b2221354f3c7885eebfdac8f0}
+      \strng{authorfullhashraw}{1f17b00b2221354f3c7885eebfdac8f0}
+      \field{extraname}{2}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{10th}
+      \field{note}{Crucial for justifying design methodologies.}
+      \field{title}{Software Engineering: A Practitioner's Approach}
+      \field{year}{2024}
+    \endentry
+    \entry{Bass2021}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=97196c0aaced1368c3042b9299a9b34b}{%
+           family={Bass},
+           familyi={B\bibinitperiod},
+           given={Len},
+           giveni={L\bibinitperiod}}}%
+        {{hash=806866eee4e5b55ba7360bfe43f4f397}{%
+           family={Clements},
+           familyi={C\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4a2e06c3fa40bc2221536e74ab90b7ec}{%
+           family={Kazman},
+           familyi={K\bibinitperiod},
+           given={Rick},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley Professional}%
+      }
+      \strng{namehash}{2626ec8f22fc3baa10dbc85a9825ee79}
+      \strng{fullhash}{f3c472223052fa8f8a1c396381e08cd3}
+      \strng{fullhashraw}{f3c472223052fa8f8a1c396381e08cd3}
+      \strng{bibnamehash}{f3c472223052fa8f8a1c396381e08cd3}
+      \strng{authorbibnamehash}{f3c472223052fa8f8a1c396381e08cd3}
+      \strng{authornamehash}{2626ec8f22fc3baa10dbc85a9825ee79}
+      \strng{authorfullhash}{f3c472223052fa8f8a1c396381e08cd3}
+      \strng{authorfullhashraw}{f3c472223052fa8f8a1c396381e08cd3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4th}
+      \field{title}{Software Architecture in Practice}
+      \field{year}{2021}
+    \endentry
+    \entry{booch2005uml}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=e4f07715269e006a4d4a4efa3ce3f996}{%
+           family={Booch},
+           familyi={B\bibinitperiod},
+           given={Grady},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b8ace965f1ffa84dd4512f7e64c62d75}{%
+           family={Rumbaugh},
+           familyi={R\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3e8f03cc324f52193ab00c1fab4df61a}{%
+           family={Jacobson},
+           familyi={J\bibinitperiod},
+           given={Ivar},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{c3345176bc96f17c7ea4c60e61223be4}
+      \strng{fullhash}{be6f3ff47123ebcb32f54f571b015ebc}
+      \strng{fullhashraw}{be6f3ff47123ebcb32f54f571b015ebc}
+      \strng{bibnamehash}{be6f3ff47123ebcb32f54f571b015ebc}
+      \strng{authorbibnamehash}{be6f3ff47123ebcb32f54f571b015ebc}
+      \strng{authornamehash}{c3345176bc96f17c7ea4c60e61223be4}
+      \strng{authorfullhash}{be6f3ff47123ebcb32f54f571b015ebc}
+      \strng{authorfullhashraw}{be6f3ff47123ebcb32f54f571b015ebc}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Unified Modeling Language User Guide}
+      \field{year}{2005}
+    \endentry
+    \entry{owler2010uml}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=312ac886938a9b2be4f8eb607567fe4c}{%
+           family={Fowler},
+           familyi={F\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{fullhash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{fullhashraw}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{bibnamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authorbibnamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authornamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authorfullhash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authorfullhashraw}{312ac886938a9b2be4f8eb607567fe4c}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{UML Distilled: A Brief Guide to the Standard Object Modeling Language}
+      \field{year}{2010}
+    \endentry
+    \entry{elmasri2016database}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=c7e2fe1a0e649bf469f3feb7c5aa840d}{%
+           family={Elmasri},
+           familyi={E\bibinitperiod},
+           given={Ramez},
+           giveni={R\bibinitperiod}}}%
+        {{hash=70e1a4ee961f32afabe17869ed47ce6c}{%
+           family={Navathe},
+           familyi={N\bibinitperiod},
+           given={Shamkant},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{98c701b41f9b53b95c258d38c1312080}
+      \strng{fullhash}{98c701b41f9b53b95c258d38c1312080}
+      \strng{fullhashraw}{98c701b41f9b53b95c258d38c1312080}
+      \strng{bibnamehash}{98c701b41f9b53b95c258d38c1312080}
+      \strng{authorbibnamehash}{98c701b41f9b53b95c258d38c1312080}
+      \strng{authornamehash}{98c701b41f9b53b95c258d38c1312080}
+      \strng{authorfullhash}{98c701b41f9b53b95c258d38c1312080}
+      \strng{authorfullhashraw}{98c701b41f9b53b95c258d38c1312080}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fundamentals of Database Systems}
+      \field{year}{2016}
+    \endentry
+    \entry{fowler2002patterns}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=312ac886938a9b2be4f8eb607567fe4c}{%
+           family={Fowler},
+           familyi={F\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{fullhash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{fullhashraw}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{bibnamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authorbibnamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authornamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authorfullhash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authorfullhashraw}{312ac886938a9b2be4f8eb607567fe4c}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Patterns of Enterprise Application Architecture}
+      \field{year}{2002}
+    \endentry
+    \entry{Kaur2023}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=a4224cad5558b35c721df86bcbce4027}{%
+           family={Kaur},
+           familyi={K\bibinitperiod},
+           given={Amanpreet},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6cf9179eb414f612dd6a27bf59cdbc1a}{%
+           family={Kaur},
+           familyi={K\bibinitperiod},
+           given={Kulwinder},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{e432a4e4b66bbf3417ddd3cd4e3544c0}
+      \strng{fullhash}{e432a4e4b66bbf3417ddd3cd4e3544c0}
+      \strng{fullhashraw}{e432a4e4b66bbf3417ddd3cd4e3544c0}
+      \strng{bibnamehash}{e432a4e4b66bbf3417ddd3cd4e3544c0}
+      \strng{authorbibnamehash}{e432a4e4b66bbf3417ddd3cd4e3544c0}
+      \strng{authornamehash}{e432a4e4b66bbf3417ddd3cd4e3544c0}
+      \strng{authorfullhash}{e432a4e4b66bbf3417ddd3cd4e3544c0}
+      \strng{authorfullhashraw}{e432a4e4b66bbf3417ddd3cd4e3544c0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Software Engineering Research and Development}
+      \field{title}{A Systematic Mapping Study on Software Architectural Patterns for E-Commerce Platforms}
+      \field{volume}{11}
+      \field{year}{2023}
+      \field{pages}{1\bibrangedash 25}
+      \range{pages}{25}
+    \endentry
+    \entry{Belhadi2024}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=c868ed6ecdf47d21622ae34d3fbcd15e}{%
+           family={Belhadi},
+           familyi={B\bibinitperiod},
+           given={Amine},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8dbbf2900321b609502f5d16edae1af3}
+      \strng{fullhash}{8dbbf2900321b609502f5d16edae1af3}
+      \strng{fullhashraw}{8dbbf2900321b609502f5d16edae1af3}
+      \strng{bibnamehash}{8dbbf2900321b609502f5d16edae1af3}
+      \strng{authorbibnamehash}{8dbbf2900321b609502f5d16edae1af3}
+      \strng{authornamehash}{8dbbf2900321b609502f5d16edae1af3}
+      \strng{authorfullhash}{8dbbf2900321b609502f5d16edae1af3}
+      \strng{authorfullhashraw}{8dbbf2900321b609502f5d16edae1af3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Production Economics}
+      \field{title}{Data-driven Agriculture Supply Chain Resilience: A Design Science Research Approach}
+      \field{volume}{268}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1016/j.ijpe.2023.109123
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

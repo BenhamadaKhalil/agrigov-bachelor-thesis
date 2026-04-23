@@ -1,0 +1,98 @@
+\section{Technologies Used and Source Code Access}
+
+\subsection{ Technologies Used}
+
+The development of the system is based on the following technologies:
+
+\begin{itemize}
+	\item \textbf{Programming Languages:} Python (backend), TypeScript (frontend).
+	
+	\item \textbf{Frameworks:}
+	\begin{itemize}
+		\item Django (backend framework) for handling business logic and API development.
+		\item Next.js (React-based framework) for building the frontend user interface.
+	\end{itemize}
+	
+	\item \textbf{Database:} PostgreSQL.
+	
+	\item \textbf{Database Hosting:} Neon (cloud-based PostgreSQL hosting service).
+	
+	\item \textbf{File Storage:} Cloudinary, used for uploading and managing media files in the cloud.
+	
+	\item \textbf{Development Environment:} Visual Studio Code .
+	
+	\item \textbf{Styling:} Tailwind CSS for designing responsive and modern user interfaces.
+	
+	\item \textbf{Version Control:} Git and GitHub.
+\end{itemize}
+
+\subsection{ Source Code Description}
+
+This section describes the organization of the application source code.
+
+\paragraph{Project Structure}
+The backend of the project is organized into multiple Django applications, each representing a specific domain of the system:
+
+\begin{figure}[H]
+	\centering
+	
+	\begin{subfigure}[b]{0.3\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{images/structure/mobileStructure}
+		\caption{Mobile Structure}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[b]{0.3\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{images/structure/webStructure}
+		\caption{Web Structure}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[b]{0.3\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{images/structure/backendStructure}
+		\caption{Backend Structure}
+	\end{subfigure}
+	
+	\caption{Overall Project Structure}
+\end{figure}
+
+At the root level, the project includes configuration files such as \texttt{manage.py}, environment variables (\texttt{.env}), and dependency definitions (\texttt{requirements.txt}).
+
+\paragraph{Main Components}
+The system is composed of the following main components:
+\begin{itemize}
+	\item \textbf{Models:} Define the structure of the database and relationships between entities.
+	\item \textbf{Views:} Handle HTTP requests, process data, and return API responses.
+	\item \textbf{Serializers:} Convert complex data (models) into JSON format and vice versa.
+	\item \textbf{URLs:} Define the routing of API endpoints.
+\end{itemize}
+
+\paragraph{Logical Organization (MVT Architecture)}
+The backend follows the \textbf{Model–View–Template (MVT)} architectural pattern used by Django:
+
+\begin{itemize}
+	\item \textbf{Model:} Represents the data layer, including database tables and relationships (e.g., products, orders, users).
+	
+	\item \textbf{View:} Contains the business logic and handles client requests, interacting with models and returning responses (API endpoints in this case).
+	
+	\item \textbf{Template:} In this project, the template layer is replaced by the frontend (Next.js), which consumes the API and renders the user interface.
+\end{itemize}
+
+This architecture ensures clear separation of concerns, improves code maintainability, and allows easy scalability of the application.
+
+\subsection{ Access to the Project Repository}
+
+The source code of the application is accessible via:
+
+\begin{itemize}
+	\item \textbf{Repository Link (Web):} \texttt{https://github.com/DabbacheDjawad/AGRIGOV-MARKET.git}
+	\item \textbf{Repository Link (mobile):} \texttt{https://github.com/BenhamadaKhalil/Agrigov-mobile.git}
+\end{itemize}
+
+\begin{center}
+	\qrcode{https://github.com/username/repo-name/tree/main/images}
+	
+	\vspace{0.3cm}
+	\textbf{Scan to access project images on GitHub}
+\end{center}

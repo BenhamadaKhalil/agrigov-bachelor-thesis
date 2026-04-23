@@ -1,0 +1,1915 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.7)  24 APR 2026 00:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Main.tex
+(Main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+(C:\Program Files\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@chapter=\count276
+\c@section=\count277
+\c@subsection=\count278
+\c@subsubsection=\count279
+\c@paragraph=\count280
+\c@subparagraph=\count281
+\c@figure=\count282
+\c@table=\count283
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+) (settings.tex
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count284
+\Gm@cntv=\count285
+\c@Gm@tempcnt=\count286
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks18
+
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+)
+(C:\Program Files\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2026/01/26 v26.2 The multilingual framework for LuaLaTeX, pdfLaT
+eX and XeLaTeX
+\babel@savecnt=\count287
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2078.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2080.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2082.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2083.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2084.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2086.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2111.
+\U@D=\dimen157
+\l@unhyphenated=\language79
+
+(C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count288
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4206.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Program Files\MiKTeX\tex/generic/babel/locale/en\babel-english.tex)
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 4330.
+
+(C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen158
+\Gin@req@width=\dimen159
+)
+(C:\Program Files\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen160
+))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen161
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count289
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count290
+\leftroot@=\count291
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count292
+\DOTSCASE@=\count293
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen162
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count294
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count295
+\dotsspace@=\muskip17
+\c@parentequation=\count296
+\dspbrk@lvl=\count297
+\tag@help=\toks22
+\row@=\count298
+\column@=\count299
+\maxfields@=\count300
+\andhelp@=\toks23
+\eqnshift@=\dimen163
+\alignsep@=\dimen164
+\tagshift@=\dimen165
+\tagwidth@=\dimen166
+\totwidth@=\dimen167
+\lineht@=\dimen168
+\@envbody=\toks24
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+)
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Program Files\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box55
+\beforetitleunit=\skip54
+\aftertitleunit=\skip55
+\ttl@plus=\dimen169
+\ttl@minus=\dimen170
+\ttl@toksa=\toks26
+\titlewidth=\dimen171
+\titlewidthlast=\dimen172
+\titlewidthfirst=\dimen173
+)
+(C:\Program Files\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen174
+\captionmargin=\dimen175
+\caption@leftmargin=\dimen176
+\caption@rightmargin=\dimen177
+\caption@width=\dimen178
+\caption@indent=\dimen179
+\caption@parindent=\dimen180
+\caption@hangindent=\dimen181
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count301
+\c@continuedfloat=\count302
+)
+(C:\Program Files\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
+
+(C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count303
+)
+\csq@reset=\count304
+\csq@gtype=\count305
+\csq@glevel=\count306
+\csq@qlevel=\count307
+\csq@maxlvl=\count308
+\csq@tshold=\count309
+\csq@ltx@everypar=\toks27
+
+(C:\Program Files\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(C:\Program Files\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+))
+(C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
+
+(C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Program Files\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Program Files\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count310
+
+(C:\Program Files\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count311
+\c@listtotal=\count312
+\c@listcount=\count313
+\c@liststart=\count314
+\c@liststop=\count315
+\c@citecount=\count316
+\c@citetotal=\count317
+\c@multicitecount=\count318
+\c@multicitetotal=\count319
+\c@instcount=\count320
+\c@maxnames=\count321
+\c@minnames=\count322
+\c@maxitems=\count323
+\c@minitems=\count324
+\c@citecounter=\count325
+\c@maxcitecounter=\count326
+\c@savedcitecounter=\count327
+\c@uniquelist=\count328
+\c@uniquename=\count329
+\c@refsection=\count330
+\c@refsegment=\count331
+\c@maxextratitle=\count332
+\c@maxextratitleyear=\count333
+\c@maxextraname=\count334
+\c@maxextradate=\count335
+\c@maxextraalpha=\count336
+\c@abbrvpenalty=\count337
+\c@highnamepenalty=\count338
+\c@lownamepenalty=\count339
+\c@maxparens=\count340
+\c@parenlevel=\count341
+\blx@tempcnta=\count342
+\blx@tempcntb=\count343
+\blx@tempcntc=\count344
+\c@blx@maxsection=\count345
+\blx@maxsegment@0=\count346
+\blx@notetype=\count347
+\blx@parenlevel@text=\count348
+\blx@parenlevel@foot=\count349
+\blx@sectionciteorder@0=\count350
+\blx@sectionciteorderinternal@0=\count351
+\blx@entrysetcounter=\count352
+\blx@biblioinstance=\count353
+\labelnumberwidth=\skip56
+\labelalphawidth=\skip57
+\biblabelsep=\skip58
+\bibitemsep=\skip59
+\bibnamesep=\skip60
+\bibinitsep=\skip61
+\bibparsep=\skip62
+\bibhang=\skip63
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language80
+\c@mincomprange=\count354
+\c@maxcomprange=\count355
+\c@mincompwidth=\count356
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'ieee.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count357
+\c@savedafterword=\count358
+\c@annotator=\count359
+\c@savedannotator=\count360
+\c@author=\count361
+\c@savedauthor=\count362
+\c@bookauthor=\count363
+\c@savedbookauthor=\count364
+\c@commentator=\count365
+\c@savedcommentator=\count366
+\c@editor=\count367
+\c@savededitor=\count368
+\c@editora=\count369
+\c@savededitora=\count370
+\c@editorb=\count371
+\c@savededitorb=\count372
+\c@editorc=\count373
+\c@savededitorc=\count374
+\c@foreword=\count375
+\c@savedforeword=\count376
+\c@holder=\count377
+\c@savedholder=\count378
+\c@introduction=\count379
+\c@savedintroduction=\count380
+\c@namea=\count381
+\c@savednamea=\count382
+\c@nameb=\count383
+\c@savednameb=\count384
+\c@namec=\count385
+\c@savednamec=\count386
+\c@translator=\count387
+\c@savedtranslator=\count388
+\c@shortauthor=\count389
+\c@savedshortauthor=\count390
+\c@shorteditor=\count391
+\c@savedshorteditor=\count392
+\c@labelname=\count393
+\c@savedlabelname=\count394
+\c@institution=\count395
+\c@savedinstitution=\count396
+\c@lista=\count397
+\c@savedlista=\count398
+\c@listb=\count399
+\c@savedlistb=\count400
+\c@listc=\count401
+\c@savedlistc=\count402
+\c@listd=\count403
+\c@savedlistd=\count404
+\c@liste=\count405
+\c@savedliste=\count406
+\c@listf=\count407
+\c@savedlistf=\count408
+\c@location=\count409
+\c@savedlocation=\count410
+\c@organization=\count411
+\c@savedorganization=\count412
+\c@origlocation=\count413
+\c@savedoriglocation=\count414
+\c@origpublisher=\count415
+\c@savedorigpublisher=\count416
+\c@publisher=\count417
+\c@savedpublisher=\count418
+\c@language=\count419
+\c@savedlanguage=\count420
+\c@origlanguage=\count421
+\c@savedoriglanguage=\count422
+\c@pageref=\count423
+\c@savedpageref=\count424
+\shorthandwidth=\skip64
+\shortjournalwidth=\skip65
+\shortserieswidth=\skip66
+\shorttitlewidth=\skip67
+\shortauthorwidth=\skip68
+\shorteditorwidth=\skip69
+\locallabelnumberwidth=\skip70
+\locallabelalphawidth=\skip71
+\localshorthandwidth=\skip72
+\localshortjournalwidth=\skip73
+\localshortserieswidth=\skip74
+\localshorttitlewidth=\skip75
+\localshortauthorwidth=\skip76
+\localshorteditorwidth=\skip77
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+\c@textcitecount=\count425
+\c@textcitetotal=\count426
+\c@textcitemaxnames=\count427
+\c@biburlbigbreakpenalty=\count428
+\c@biburlbreakpenalty=\count429
+\c@biburlnumpenalty=\count430
+\c@biburlucpenalty=\count431
+\c@biburllcpenalty=\count432
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count433
+)
+Package biblatex Info: Trying to load bibliography style 'ieee'...
+Package biblatex Info: ... file 'ieee.bbx' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex-ieee\ieee.bbx
+File: ieee.bbx 2025-08-01 v1.4f biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\numeric-comp.bbx
+File: numeric-comp.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count434
+\c@bbx:relatedtotal=\count435
+))))
+Package biblatex Info: Trying to load citation style 'ieee'...
+Package biblatex Info: ... file 'ieee.cbx' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex-ieee\ieee.cbx
+File: ieee.cbx 2025-08-01 v1.4f biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-verb'...
+Package biblatex Info: ... file 'numeric-verb.cbx' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex/cbx\numeric-verb.cbx
+File: numeric-verb.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2026-01-19 L3 programming layer (loader) 
+
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count436
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2026-01-19 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
+(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
+))
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
+
+(C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+
+(C:\Program Files\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count437
+)
+(C:\Program Files\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen182
+\Hy@linkcounter=\count438
+\Hy@pagecounter=\count439
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Program Files\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count440
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4201.
+Package hyperref Info: Link nesting OFF on input line 4206.
+Package hyperref Info: Hyper index ON on input line 4209.
+Package hyperref Info: Plain pages OFF on input line 4216.
+Package hyperref Info: Backreferencing OFF on input line 4221.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4468.
+\c@Hy@tempcnt=\count441
+LaTeX Info: Redefining \url on input line 4807.
+\XeTeXLinkMargin=\dimen183
+
+(C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Program Files\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count442
+\Field@Width=\dimen184
+\Fld@charsize=\dimen185
+Package hyperref Info: Hyper figures OFF on input line 6084.
+Package hyperref Info: Link nesting OFF on input line 6089.
+Package hyperref Info: Hyper index ON on input line 6092.
+Package hyperref Info: backreferencing OFF on input line 6099.
+Package hyperref Info: Link coloring OFF on input line 6104.
+Package hyperref Info: Link coloring with OCG OFF on input line 6109.
+Package hyperref Info: PDF/A mode OFF on input line 6114.
+\Hy@abspage=\count443
+\c@Item=\count444
+\c@Hfootnote=\count445
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2026-01-29 v7.01p Hyperref driver for pdfTeX
+\Fld@listcount=\count446
+\c@bookmark@seq@number=\count447
+
+(C:\Program Files\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Program Files\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip78
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 41.
+
+(C:\Program Files\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count448
+\float@exts=\toks28
+\float@box=\box56
+\@float@everytoks=\toks29
+\@floatcapt=\box57
+)
+(C:\Program Files\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen186
+\lightrulewidth=\dimen187
+\cmidrulewidth=\dimen188
+\belowrulesep=\dimen189
+\belowbottomsep=\dimen190
+\aboverulesep=\dimen191
+\abovetopsep=\dimen192
+\cmidrulesep=\dimen193
+\cmidrulekern=\dimen194
+\defaultaddspace=\dimen195
+\@cmidla=\count449
+\@cmidlb=\count450
+\@aboverulesep=\dimen196
+\@belowrulesep=\dimen197
+\@thisruleclass=\count451
+\@lastruleclass=\count452
+\@thisrulewidth=\dimen198
+)
+(C:\Program Files\MiKTeX\tex/latex/minted\minted.sty
+Package: minted 2025/05/14 v3.7.0 Yet another Pygments shim for LaTeX
+
+(C:\Program Files\MiKTeX\tex/generic/catchfile\catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+
+(C:\Program Files\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(C:\Program Files\MiKTeX\tex/latex/fvextra\fvextra.sty
+Package: fvextra 2025/05/29 v1.13.2 fvextra - extensions and patches for fancyv
+rb
+
+(C:\Program Files\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
+Package: fancyvrb 2025/07/28 4.6 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count453
+\FV@InFile=\read4
+\FV@TabBox=\box58
+\c@FancyVerbLine=\count454
+\FV@StepNumber=\count455
+\FV@OutFile=\write4
+)
+(C:\Program Files\MiKTeX\tex/latex/upquote\upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+))
+(C:\Program Files\MiKTeX\tex/latex/lineno\lineno.sty
+Package: lineno 2025/05/13 line numbers on paragraphs v5.5
+\linenopenalty=\count456
+\output=\toks30
+\linenoprevgraf=\count457
+\linenumbersep=\dimen199
+\linenumberwidth=\dimen256
+\c@linenumber=\count458
+\c@pagewiselinenumber=\count459
+\c@LN@truepage=\count460
+\c@internallinenumber=\count461
+\c@internallinenumbers=\count462
+\quotelinenumbersep=\dimen257
+\bframerule=\dimen258
+\bframesep=\dimen259
+\bframebox=\box59
+\@LN@amsmath@ams@eqpen=\count463
+
+
+LaTeX Warning: Command \@parboxrestore  has changed.
+               Check if current package is valid.
+
+)
+
+Package fvextra Warning: csquotes should be loaded after fvextra, to avoid a wa
+rning from the lineno package on input line 37.
+
+\c@FancyVerbWriteLine=\count464
+\c@FancyVerbBufferLine=\count465
+\c@FV@TrueTabGroupLevel=\count466
+\c@FV@TrueTabCounter=\count467
+\FV@TabBox@Group=\box60
+\FV@bgcolorstructbox=\box61
+\FV@TmpLength=\skip79
+\c@FV@HighlightLinesStart=\count468
+\c@FV@HighlightLinesStop=\count469
+\FV@LoopCount=\count470
+\FV@NCharsBox=\box62
+\FV@BreakIndent=\dimen260
+\FV@BreakIndentNChars=\count471
+\FV@BreakSymbolSepLeft=\dimen261
+\FV@BreakSymbolSepLeftNChars=\count472
+\FV@BreakSymbolSepRight=\dimen262
+\FV@BreakSymbolSepRightNChars=\count473
+\FV@BreakSymbolIndentLeft=\dimen263
+\FV@BreakSymbolIndentLeftNChars=\count474
+\FV@BreakSymbolIndentRight=\dimen264
+\FV@BreakSymbolIndentRightNChars=\count475
+\c@FancyVerbLineBreakLast=\count476
+\FV@LineBox=\box63
+\FV@LineIndentBox=\box64
+\c@FV@BreakBufferDepth=\count477
+\FV@LineWidth=\dimen265
+) (C:\Program Files\MiKTeX\tex/latex/latex2pydata\latex2pydata.sty
+Package: latex2pydata 2025/03/26 v0.6.0 latex2pydata - write data to file in Py
+thon literal format
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks31
+\pgfkeys@temptoks=\toks32
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.
+tex
+\pgfkeys@tmptoks=\toks33
+))) (C:\Program Files\MiKTeX\tex/latex/pgfopts\pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks34
+\pgfopts@list@add@b@toks=\toks35
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\c@minted@FancyVerbLineTemp=\count478
+\@float@every@listing=\toks36
+\c@listing=\count479
+)
+(C:\Program Files\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count480
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count481
+))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'english'.
+
+(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 6.
+
+
+(C:\Program Files\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (Main.aux)
+\openout1 = `Main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 28.45274pt
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 441.01775pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=441.01775pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08826pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count482
+\scratchdimen=\dimen266
+\scratchbox=\box65
+\nofMPsegments=\count483
+\nofMParguments=\count484
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count485
+\MPscratchDim=\dimen267
+\MPnumerator=\count486
+\makeMPintoPDFobject=\count487
+\everyMPtoPDFconversion=\toks38
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `Main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Main.bbl' found.
+ (Main.bbl)
+Package biblatex Info: Reference section=0 on input line 6.
+Package biblatex Info: Reference segment=0 on input line 6.
+Package hyperref Info: Link coloring ON on input line 6.
+
+(Main.out) (Main.out)
+\@outlinefile=\write5
+\openout5 = `Main.out'.
+
+ (sections1/TitlePage.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=759.6886pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<images/logo/UC2.png, id=210, 451.6875pt x 451.6875pt>
+File: images/logo/UC2.png Graphic file (type png)
+<use images/logo/UC2.png>
+Package pdftex.def Info: images/logo/UC2.png  used on input line 19.
+(pdftex.def)             Requested size: 106.41226pt x 106.40848pt.
+
+Overfull \hbox (9.67438pt too wide) in paragraph at lines 19--20
+ [][] 
+ []
+
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
+0.
+(C:\Program Files\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
+0.
+
+(C:\Program Files\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+20.
+
+(C:\Program Files\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+20.
+
+(C:\Program Files\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 20.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 20.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
+
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
+
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<images/logo/ntic.png, id=212, 72.27pt x 72.7518pt>
+File: images/logo/ntic.png Graphic file (type png)
+<use images/logo/ntic.png>
+Package pdftex.def Info: images/logo/ntic.png  used on input line 31.
+(pdftex.def)             Requested size: 82.22778pt x 82.78024pt.
+
+
+LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
+(Font)              using `T1/lmr/bx/n' instead on input line 39.
+
+[1
+
+
+{C:/Users/DELL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Fil
+es/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./images/logo/UC2.png> <./images/logo/
+ntic.png>]) (Main.toc
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.37 ...}Ministry Interface}{36}{subsection.1.6.5}
+                                                  % [1
+
+
+
+])
+\tf@toc=\write6
+\openout6 = `Main.toc'.
+
+ [2] (Main.lof)
+\tf@lof=\write7
+\openout7 = `Main.lof'.
+
+
+[3
+
+
+] (Main.lot)
+\tf@lot=\write8
+\openout8 = `Main.lot'.
+
+ [4
+
+
+] (GlobalIntro.tex
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+0.
+
+(C:\Program Files\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)) (chapter1.tex [5
+
+
+{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
+Chapter 1.
+(sections1/introduction.tex) (sections1/ExistingSystems.tex [6
+
+]
+<images/existingHome/fbn_interface.png.jpg, id=384, 963.6pt x 443.40656pt>
+File: images/existingHome/fbn_interface.png.jpg Graphic file (type jpg)
+<use images/existingHome/fbn_interface.png.jpg>
+Package pdftex.def Info: images/existingHome/fbn_interface.png.jpg  used on inp
+ut line 18.
+(pdftex.def)             Requested size: 352.81554pt x 162.3461pt.
+
+Overfull \hbox (6.65956pt too wide) in paragraph at lines 26--28
+\T1/lmr/m/n/12 Electronic Na-tional Agri-cul-ture Mar-ket (eNAM) is a governmen
+t-driven project launched
+ []
+
+<images/existingHome/enam_interface.png.jpg, id=385, 963.6pt x 502.12593pt>
+File: images/existingHome/enam_interface.png.jpg Graphic file (type jpg)
+<use images/existingHome/enam_interface.png.jpg>
+Package pdftex.def Info: images/existingHome/enam_interface.png.jpg  used on in
+put line 33.
+(pdftex.def)             Requested size: 352.81554pt x 183.84525pt.
+[7 <./images/existingHome/fbn_interface.png.jpg>]
+Overfull \hbox (2.5832pt too wide) in paragraph at lines 40--40
+|[]\T1/lmr/bx/n/14.4 Ghana Agri-cul-ture and Agribusi-ness Plat-form (GhAAP)
+ []
+
+
+Overfull \hbox (8.71774pt too wide) in paragraph at lines 46--47
+[]\T1/lmr/m/n/12 Through real-time in-for-ma-tion shar-ing, GhAAP im-proves co-
+or-di-na-tion, trans-parency,
+ []
+
+<images/existingHome/ghaap_interface.png, id=391, 1124.40076pt x 543.83176pt>
+File: images/existingHome/ghaap_interface.png Graphic file (type png)
+<use images/existingHome/ghaap_interface.png>
+Package pdftex.def Info: images/existingHome/ghaap_interface.png  used on input
+ line 50.
+(pdftex.def)             Requested size: 352.81554pt x 170.64404pt.
+
+Underfull \hbox (badness 5533) in paragraph at lines 64--65
+\T1/lmr/m/n/12 tics in-te-gra-tion, no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\T1/lmr/m/n/12 gov-ern-ment su-per-vi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+[]\T1/lmr/m/n/12 Infrastructure gaps,
+ []
+
+
+Underfull \hbox (badness 4096) in paragraph at lines 68--68
+[]\T1/lmr/m/n/12 Ghana Agri-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\T1/lmr/m/n/12 cul-ture and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\T1/lmr/m/n/12 Agribusi-ness
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\T1/lmr/m/n/12 Plat-form
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\T1/lmr/m/n/12 ad-vice, di-rect sell-ing,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+[]\T1/lmr/m/n/12 National plat-form
+ []
+
+
+Underfull \hbox (badness 7012) in paragraph at lines 68--69
+\T1/lmr/m/n/12 only, lim-ited in-for-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\T1/lmr/m/n/12 ma-tion on pric-ing
+ []
+
+[8 <./images/existingHome/enam_interface.png.jpg> <./images/existingHome/ghaap_
+interface.png>] [9]) (sections1/definitions.tex [10] [11] [12]
+<images/diagrammes/DCS.png, id=417, 525.162pt x 296.307pt>
+File: images/diagrammes/DCS.png Graphic file (type png)
+<use images/diagrammes/DCS.png>
+Package pdftex.def Info: images/diagrammes/DCS.png  used on input line 130.
+(pdftex.def)             Requested size: 441.01775pt x 248.83289pt.
+)
+(sections1/UseCases.tex [13 <./images/diagrammes/DCS.png>]
+<images/diagrammes/buyerUCD.png, id=424, 378.213pt x 375.20175pt>
+File: images/diagrammes/buyerUCD.png Graphic file (type png)
+<use images/diagrammes/buyerUCD.png>
+Package pdftex.def Info: images/diagrammes/buyerUCD.png  used on input line 21.
+
+(pdftex.def)             Requested size: 418.9655pt x 415.65445pt.
+ [14]
+<images/diagrammes/farmerUCD.png, id=429, 499.8675pt x 416.15475pt>
+File: images/diagrammes/farmerUCD.png Graphic file (type png)
+<use images/diagrammes/farmerUCD.png>
+Package pdftex.def Info: images/diagrammes/farmerUCD.png  used on input line 37
+.
+(pdftex.def)             Requested size: 463.06998pt x 385.53401pt.
+
+Overfull \hbox (22.05223pt too wide) in paragraph at lines 37--38
+ [][] 
+ []
+
+[15 <./images/diagrammes/buyerUCD.png>]
+<images/diagrammes/transporterUCD.png, id=435, 437.2335pt x 323.40825pt>
+File: images/diagrammes/transporterUCD.png Graphic file (type png)
+<use images/diagrammes/transporterUCD.png>
+Package pdftex.def Info: images/diagrammes/transporterUCD.png  used on input li
+ne 54.
+(pdftex.def)             Requested size: 463.06998pt x 342.52487pt.
+
+Overfull \hbox (22.05223pt too wide) in paragraph at lines 54--55
+ [][] 
+ []
+
+[16 <./images/diagrammes/farmerUCD.png>]
+<images/diagrammes/ministryUCD.png, id=441, 380.622pt x 343.2825pt>
+File: images/diagrammes/ministryUCD.png Graphic file (type png)
+<use images/diagrammes/ministryUCD.png>
+Package pdftex.def Info: images/diagrammes/ministryUCD.png  used on input line 
+69.
+(pdftex.def)             Requested size: 418.9655pt x 377.88951pt.
+ [17 <./images/diagrammes/transporterUCD.png>]
+<images/diagrammes/GlobalUCD.png, id=447, 377.61075pt x 392.06474pt>
+File: images/diagrammes/GlobalUCD.png Graphic file (type png)
+<use images/diagrammes/GlobalUCD.png>
+Package pdftex.def Info: images/diagrammes/GlobalUCD.png  used on input line 77
+.
+(pdftex.def)             Requested size: 507.16771pt x 526.60239pt.
+
+Overfull \hbox (66.14996pt too wide) in paragraph at lines 77--78
+ [][] 
+ []
+
+) [18 <./images/diagrammes/ministryUCD.png>] (sections1/Spécification.tex
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+[]\T1/lmr/bx/n/12 Alternative Se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]\T1/lmr/bx/n/12 Exceptional Se-
+ []
+
+[19 <./images/diagrammes/GlobalUCD.png>]
+<images/diagrammes/Authentication.png, id=459, 668.4975pt x 476.37975pt>
+File: images/diagrammes/Authentication.png Graphic file (type png)
+<use images/diagrammes/Authentication.png>
+Package pdftex.def Info: images/diagrammes/Authentication.png  used on input li
+ne 68.
+(pdftex.def)             Requested size: 507.16771pt x 361.42723pt.
+
+Overfull \hbox (66.14996pt too wide) in paragraph at lines 68--69
+ [][] 
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+[]\T1/lmr/bx/n/12 Alternative Se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+[]\T1/lmr/bx/n/12 Exceptional Se-
+ []
+
+[21 <./images/diagrammes/Authentication.png>]
+<images/diagrammes/DecideMilestone.png, id=474, 599.841pt x 503.481pt>
+File: images/diagrammes/DecideMilestone.png Graphic file (type png)
+<use images/diagrammes/DecideMilestone.png>
+Package pdftex.def Info: images/diagrammes/DecideMilestone.png  used on input l
+ine 133.
+(pdftex.def)             Requested size: 507.16771pt x 425.7099pt.
+
+Overfull \hbox (66.14996pt too wide) in paragraph at lines 133--134
+ [][] 
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
+[]\T1/lmr/bx/n/12 Alternative Se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
+[]\T1/lmr/bx/n/12 Exceptional Se-
+ []
+
+[23 <./images/diagrammes/DecideMilestone.png>]
+<images/diagrammes/userValidation.png, id=488, 668.4975pt x 507.0945pt>
+File: images/diagrammes/userValidation.png Graphic file (type png)
+<use images/diagrammes/userValidation.png>
+Package pdftex.def Info: images/diagrammes/userValidation.png  used on input li
+ne 195.
+(pdftex.def)             Requested size: 507.16771pt x 384.73038pt.
+
+Overfull \hbox (66.14996pt too wide) in paragraph at lines 195--196
+ [][] 
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+[]\T1/lmr/bx/n/12 Alternative Se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
+[]\T1/lmr/bx/n/12 Exceptional Se-
+ []
+
+[25 <./images/diagrammes/userValidation.png>]
+<images/diagrammes/SearchProduct.png, id=504, 499.8675pt x 461.92575pt>
+File: images/diagrammes/SearchProduct.png Graphic file (type png)
+<use images/diagrammes/SearchProduct.png>
+Package pdftex.def Info: images/diagrammes/SearchProduct.png  used on input lin
+e 256.
+(pdftex.def)             Requested size: 418.9655pt x 387.17622pt.
+ [26]
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+[]\T1/lmr/bx/n/12 Alternative Se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+[]\T1/lmr/bx/n/12 Exceptional Se-
+ []
+
+[27 <./images/diagrammes/SearchProduct.png>]
+<images/diagrammes/decideOrder.png, id=517, 446.8695pt x 519.1395pt>
+File: images/diagrammes/decideOrder.png Graphic file (type png)
+<use images/diagrammes/decideOrder.png>
+Package pdftex.def Info: images/diagrammes/decideOrder.png  used on input line 
+316.
+(pdftex.def)             Requested size: 418.9655pt x 486.74751pt.
+ [28]) (sections1/Mockups.tex
+[29 <./images/diagrammes/decideOrder.png>]
+<images/navigation/global-navigation.png, id=532, 1073.81175pt x 548.64975pt>
+File: images/navigation/global-navigation.png Graphic file (type png)
+<use images/navigation/global-navigation.png>
+Package pdftex.def Info: images/navigation/global-navigation.png  used on input
+ line 19.
+(pdftex.def)             Requested size: 573.3244pt x 292.94289pt.
+
+Overfull \hbox (72.32176pt too wide) in paragraph at lines 18--20
+[]  [] 
+ []
+
+<images/navigation/farmer-navigation.jpg, id=533, 777.65532pt x 551.05875pt>
+File: images/navigation/farmer-navigation.jpg Graphic file (type jpg)
+<use images/navigation/farmer-navigation.jpg>
+Package pdftex.def Info: images/navigation/farmer-navigation.jpg  used on input
+ line 32.
+(pdftex.def)             Requested size: 396.91327pt x 281.26326pt.
+<images/figma/farmer/Overview.jpg, id=534, 963.6pt x 496.10344pt>
+File: images/figma/farmer/Overview.jpg Graphic file (type jpg)
+<use images/figma/farmer/Overview.jpg>
+Package pdftex.def Info: images/figma/farmer/Overview.jpg  used on input line 4
+2.
+(pdftex.def)             Requested size: 198.45663pt x 102.17119pt.
+<images/figma/farmer/Transportation mission control.jpg, id=535, 963.6pt x 510.
+40688pt>
+File: images/figma/farmer/Transportation mission control.jpg Graphic file (type
+ jpg)
+<use images/figma/farmer/Transportation mission control.jpg>
+Package pdftex.def Info: images/figma/farmer/Transportation mission control.jpg
+  used on input line 48.
+(pdftex.def)             Requested size: 198.45663pt x 105.11694pt.
+[30 <./images/navigation/global-navigation.png>]
+<images/figma/farmer/Farmer Inventory Management.png, id=543, 1284.8pt x 1008.7
+6875pt>
+File: images/figma/farmer/Farmer Inventory Management.png Graphic file (type pn
+g)
+<use images/figma/farmer/Farmer Inventory Management.png>
+Package pdftex.def Info: images/figma/farmer/Farmer Inventory Management.png  u
+sed on input line 60.
+(pdftex.def)             Requested size: 198.45663pt x 155.8188pt.
+<images/figma/farmer/Product Management.png, id=544, 1284.8pt x 1027.84pt>
+File: images/figma/farmer/Product Management.png Graphic file (type png)
+<use images/figma/farmer/Product Management.png>
+Package pdftex.def Info: images/figma/farmer/Product Management.png  used on in
+put line 66.
+(pdftex.def)             Requested size: 198.45663pt x 158.76462pt.
+<images/figma/farmer/Order History and Invoices.png, id=545, 1284.8pt x 1146.28
+25pt>
+File: images/figma/farmer/Order History and Invoices.png Graphic file (type png
+)
+<use images/figma/farmer/Order History and Invoices.png>
+Package pdftex.def Info: images/figma/farmer/Order History and Invoices.png  us
+ed on input line 81.
+(pdftex.def)             Requested size: 188.53319pt x 168.19191pt.
+<images/mobile/exports/inventorymanagement.png, id=546, 394.47375pt x 874.01532
+pt>
+File: images/mobile/exports/inventorymanagement.png Graphic file (type png)
+<use images/mobile/exports/inventorymanagement.png>
+Package pdftex.def Info: images/mobile/exports/inventorymanagement.png  used on
+ input line 88.
+(pdftex.def)             Requested size: 71.22336pt x 157.79608pt.
+<images/mobile/exports/logistics.png, id=547, 413.29407pt x 1014.79124pt>
+File: images/mobile/exports/logistics.png Graphic file (type png)
+<use images/mobile/exports/logistics.png>
+Package pdftex.def Info: images/mobile/exports/logistics.png  used on input lin
+e 94.
+(pdftex.def)             Requested size: 71.22336pt x 174.88135pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]\T1/lmr/m/n/10.95 (e) |Mo-bile
+ []
+
+<images/mobile/exports/productManagement.png, id=548, 456.95718pt x 1115.66812p
+t>
+File: images/mobile/exports/productManagement.png Graphic file (type png)
+<use images/mobile/exports/productManagement.png>
+Package pdftex.def Info: images/mobile/exports/productManagement.png  used on i
+nput line 100.
+(pdftex.def)             Requested size: 71.22336pt x 173.8801pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+[]\T1/lmr/m/n/10.95 (f) |Mo-bile
+ []
+
+[31 <./images/navigation/farmer-navigation.jpg> <./images/figma/farmer/Overview
+.jpg> <./images/figma/farmer/Transportation mission control.jpg>]
+<images/navigation/buyer-navigation.jpg, id=554, 705.38531pt x 557.83406pt>
+File: images/navigation/buyer-navigation.jpg Graphic file (type jpg)
+<use images/navigation/buyer-navigation.jpg>
+Package pdftex.def Info: images/navigation/buyer-navigation.jpg  used on input 
+line 114.
+(pdftex.def)             Requested size: 396.91327pt x 313.88303pt.
+<images/figma/buyer/Buyer Marketplace Catalog.png, id=555, 966.61125pt x 878.53
+218pt>
+File: images/figma/buyer/Buyer Marketplace Catalog.png Graphic file (type png)
+<use images/figma/buyer/Buyer Marketplace Catalog.png>
+Package pdftex.def Info: images/figma/buyer/Buyer Marketplace Catalog.png  used
+ on input line 122.
+(pdftex.def)             Requested size: 198.45663pt x 180.36836pt.
+<images/figma/buyer/order history.jpg, id=556, 963.6pt x 859.71187pt>
+File: images/figma/buyer/order history.jpg Graphic file (type jpg)
+<use images/figma/buyer/order history.jpg>
+Package pdftex.def Info: images/figma/buyer/order history.jpg  used on input li
+ne 128.
+(pdftex.def)             Requested size: 198.45663pt x 177.05539pt.
+ [32 <./images/figma/farmer/Farmer Inventory Management.png> <./images/figma/fa
+rmer/Product Management.png> <./images/figma/farmer/Order History and Invoices.
+png> <./images/mobile/exports/inventorymanagement.png> <./images/mobile/exports
+/logistics.png> <./images/mobile/exports/productManagement.png>]
+<images/figma/buyer/Product Specification Details.png, id=567, 666.99188pt x 65
+7.95813pt>
+File: images/figma/buyer/Product Specification Details.png Graphic file (type p
+ng)
+<use images/figma/buyer/Product Specification Details.png>
+Package pdftex.def Info: images/figma/buyer/Product Specification Details.png  
+used on input line 141.
+(pdftex.def)             Requested size: 198.45663pt x 195.76254pt.
+<images/mobile/exports/orderhistory.png, id=568, 335.75438pt x 947.03813pt>
+File: images/mobile/exports/orderhistory.png Graphic file (type png)
+<use images/mobile/exports/orderhistory.png>
+Package pdftex.def Info: images/mobile/exports/orderhistory.png  used on input 
+line 147.
+(pdftex.def)             Requested size: 74.9722pt x 211.47037pt.
+<images/mobile/exports/productdetail.png, id=569, 331.99031pt x 932.73468pt>
+File: images/mobile/exports/productdetail.png Graphic file (type png)
+<use images/mobile/exports/productdetail.png>
+Package pdftex.def Info: images/mobile/exports/productdetail.png  used on input
+ line 152.
+(pdftex.def)             Requested size: 74.9722pt x 210.63902pt.
+<images/mobile/exports/catalog.png, id=570, 233.37187pt x 643.6547pt>
+File: images/mobile/exports/catalog.png Graphic file (type png)
+<use images/mobile/exports/catalog.png>
+Package pdftex.def Info: images/mobile/exports/catalog.png  used on input line 
+157.
+(pdftex.def)             Requested size: 74.9722pt x 206.77905pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+[]\T1/lmr/m/n/10.95 (d) |Cat-a-logue
+ []
+
+[33 <./images/navigation/buyer-navigation.jpg> <./images/figma/buyer/Buyer Mark
+etplace Catalog.png> <./images/figma/buyer/order history.jpg>]
+<images/navigation/transporter-navigation.jpg, id=577, 627.84563pt x 526.21594p
+t>
+File: images/navigation/transporter-navigation.jpg Graphic file (type jpg)
+<use images/navigation/transporter-navigation.jpg>
+Package pdftex.def Info: images/navigation/transporter-navigation.jpg  used on 
+input line 170.
+(pdftex.def)             Requested size: 396.91327pt x 332.65797pt.
+<images/figma/transporter/Body-1.jpg, id=578, 963.6pt x 770.88pt>
+File: images/figma/transporter/Body-1.jpg Graphic file (type jpg)
+<use images/figma/transporter/Body-1.jpg>
+Package pdftex.def Info: images/figma/transporter/Body-1.jpg  used on input lin
+e 179.
+(pdftex.def)             Requested size: 198.45663pt x 158.76071pt.
+<images/figma/transporter/Transporter Mission Control.jpg, id=579, 963.6pt x 51
+7.935pt>
+File: images/figma/transporter/Transporter Mission Control.jpg Graphic file (ty
+pe jpg)
+<use images/figma/transporter/Transporter Mission Control.jpg>
+Package pdftex.def Info: images/figma/transporter/Transporter Mission Control.j
+pg  used on input line 185.
+(pdftex.def)             Requested size: 198.45663pt x 106.66734pt.
+<images/mobile/exports/login.png, id=580, 347.79938pt x 805.50937pt>
+File: images/mobile/exports/login.png Graphic file (type png)
+<use images/mobile/exports/login.png>
+Package pdftex.def Info: images/mobile/exports/login.png  used on input line 20
+0.
+(pdftex.def)             Requested size: 74.9722pt x 173.63591pt.
+<images/mobile/exports/registration.png, id=581, 334.24875pt x 695.59875pt>
+File: images/mobile/exports/registration.png Graphic file (type png)
+<use images/mobile/exports/registration.png>
+Package pdftex.def Info: images/mobile/exports/registration.png  used on input 
+line 206.
+(pdftex.def)             Requested size: 74.9722pt x 156.02533pt.
+<images/mobile/exports/missions.png, id=582, 304.13625pt x 724.20563pt>
+File: images/mobile/exports/missions.png Graphic file (type png)
+<use images/mobile/exports/missions.png>
+Package pdftex.def Info: images/mobile/exports/missions.png  used on input line
+ 212.
+(pdftex.def)             Requested size: 74.9722pt x 178.5204pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
+[]\T1/lmr/m/n/10.95 (c) |mis-sions
+ []
+
+<images/mobile/exports/missioncontrol.png, id=583, 708.6475pt x 1606.0pt>
+File: images/mobile/exports/missioncontrol.png Graphic file (type png)
+<use images/mobile/exports/missioncontrol.png>
+Package pdftex.def Info: images/mobile/exports/missioncontrol.png  used on inpu
+t line 218.
+(pdftex.def)             Requested size: 74.9722pt x 169.89702pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--219
+[]\T1/lmr/m/n/10.95 (d) |mis-sion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--219
+\T1/lmr/m/n/10.95 Con-t-role mo-
+ []
+
+[34 <./images/figma/buyer/Product Specification Details.png (PNG copy)> <./imag
+es/mobile/exports/orderhistory.png> <./images/mobile/exports/productdetail.png>
+ <./images/mobile/exports/catalog.png> <./images/navigation/transporter-navigat
+ion.jpg>]
+<images/navigation/ministry-navigation.jpg, id=591, 738.50906pt x 523.20468pt>
+File: images/navigation/ministry-navigation.jpg Graphic file (type jpg)
+<use images/navigation/ministry-navigation.jpg>
+Package pdftex.def Info: images/navigation/ministry-navigation.jpg  used on inp
+ut line 231.
+(pdftex.def)             Requested size: 396.91327pt x 281.19308pt.
+<images/figma/ministry/user management.png, id=592, 963.6pt x 770.88pt>
+File: images/figma/ministry/user management.png Graphic file (type png)
+<use images/figma/ministry/user management.png>
+Package pdftex.def Info: images/figma/ministry/user management.png  used on inp
+ut line 240.
+(pdftex.def)             Requested size: 198.45663pt x 158.76071pt.
+<images/figma/ministry/Ministry Admin Dashboard.png, id=593, 965.10562pt x 784.
+43062pt>
+File: images/figma/ministry/Ministry Admin Dashboard.png Graphic file (type png
+)
+<use images/figma/ministry/Ministry Admin Dashboard.png>
+Package pdftex.def Info: images/figma/ministry/Ministry Admin Dashboard.png  us
+ed on input line 246.
+(pdftex.def)             Requested size: 198.45663pt x 161.30006pt.
+ [35 <./images/figma/transporter/Body-1.jpg> <./images/figma/transporter/Transp
+orter Mission Control.jpg> <./images/mobile/exports/login.png> <./images/mobile
+/exports/registration.png> <./images/mobile/exports/missions.png> <./images/mob
+ile/exports/missioncontrol.png>]
+<images/figma/ministry/category.png, id=602, 963.6pt x 770.88pt>
+File: images/figma/ministry/category.png Graphic file (type png)
+<use images/figma/ministry/category.png>
+Package pdftex.def Info: images/figma/ministry/category.png  used on input line
+ 257.
+(pdftex.def)             Requested size: 198.45663pt x 158.76071pt.
+<images/figma/ministry/Official Price Management.png, id=603, 966.61125pt x 725
+.71124pt>
+File: images/figma/ministry/Official Price Management.png Graphic file (type pn
+g)
+<use images/figma/ministry/Official Price Management.png>
+Package pdftex.def Info: images/figma/ministry/Official Price Management.png  u
+sed on input line 263.
+(pdftex.def)             Requested size: 198.45663pt x 148.99323pt.
+) [36 <./images/navigation/ministry-navigation.jpg> <./images/figma/ministry/us
+er management.png (PNG copy)> <./images/figma/ministry/Ministry Admin Dashboard
+.png>]) (chapter2.tex [37 <./images/figma/ministry/category.png (PNG copy)> <./
+images/figma/ministry/Official Price Management.png>]
+Chapter 2.
+(sections2/introduction.tex) (sections2/diagramme_classes.tex [38
+
+]
+<images/diagrammes/diagramme_classe.jpg, id=625, 963.6pt x 584.93532pt>
+File: images/diagrammes/diagramme_classe.jpg Graphic file (type jpg)
+<use images/diagrammes/diagramme_classe.jpg>
+Package pdftex.def Info: images/diagrammes/diagramme_classe.jpg  used on input 
+line 24.
+(pdftex.def)             Requested size: 396.91327pt x 240.93178pt.
+)
+(sections2/diagramme_activite.tex [39 <./images/diagrammes/diagramme_classe.jpg
+>]
+<images/diagrammes/diagramme_activite.png, id=633, 1678.27pt x 2407.99625pt>
+File: images/diagrammes/diagramme_activite.png Graphic file (type png)
+<use images/diagrammes/diagramme_activite.png>
+Package pdftex.def Info: images/diagrammes/diagramme_activite.png  used on inpu
+t line 16.
+(pdftex.def)             Requested size: 441.01775pt x 632.7515pt.
+ [40] [41 <./images/diagrammes/diagramme_activite.png>])
+(sections2/base_donnees.tex [42]
+<images/diagrammes/schema_relationnel.jpg, id=653, 642.4pt x 395.4775pt>
+File: images/diagrammes/schema_relationnel.jpg Graphic file (type jpg)
+<use images/diagrammes/schema_relationnel.jpg>
+Package pdftex.def Info: images/diagrammes/schema_relationnel.jpg  used on inpu
+t line 55.
+(pdftex.def)             Requested size: 485.12221pt x 298.65912pt.
+
+Overfull \hbox (44.10446pt too wide) in paragraph at lines 55--56
+ [][] 
+ []
+
+[43]) (sections2/interfaces.tex
+<images/interfaces/farmer/farmer analytics.png, id=658, 1385.175pt x 706.89093p
+t>
+File: images/interfaces/farmer/farmer analytics.png Graphic file (type png)
+<use images/interfaces/farmer/farmer analytics.png>
+Package pdftex.def Info: images/interfaces/farmer/farmer analytics.png  used on
+ input line 9.
+(pdftex.def)             Requested size: 211.68663pt x 108.02452pt.
+<images/interfaces/farmer/farmer inventory.png, id=659, 1390.44469pt x 710.655p
+t>
+File: images/interfaces/farmer/farmer inventory.png Graphic file (type png)
+<use images/interfaces/farmer/farmer inventory.png>
+Package pdftex.def Info: images/interfaces/farmer/farmer inventory.png  used on
+ input line 15.
+(pdftex.def)             Requested size: 211.68663pt x 108.18767pt.
+<images/interfaces/farmer/farmer orders.png, id=660, 1385.175pt x 708.39656pt>
+File: images/interfaces/farmer/farmer orders.png Graphic file (type png)
+<use images/interfaces/farmer/farmer orders.png>
+Package pdftex.def Info: images/interfaces/farmer/farmer orders.png  used on in
+put line 26.
+(pdftex.def)             Requested size: 198.45663pt x 101.488pt.
+<images/mobile/farmer/dashboard.png, id=661, 587.19376pt x 1270.7475pt>
+File: images/mobile/farmer/dashboard.png Graphic file (type png)
+<use images/mobile/farmer/dashboard.png>
+Package pdftex.def Info: images/mobile/farmer/dashboard.png  used on input line
+ 32.
+(pdftex.def)             Requested size: 74.9722pt x 162.2363pt.
+<images/mobile/farmer/inventory.png, id=662, 587.19376pt x 1270.7475pt>
+File: images/mobile/farmer/inventory.png Graphic file (type png)
+<use images/mobile/farmer/inventory.png>
+Package pdftex.def Info: images/mobile/farmer/inventory.png  used on input line
+ 38.
+(pdftex.def)             Requested size: 74.9722pt x 162.2363pt.
+<images/mobile/farmer/logistics.png, id=663, 587.19376pt x 1270.7475pt>
+File: images/mobile/farmer/logistics.png Graphic file (type png)
+<use images/mobile/farmer/logistics.png>
+Package pdftex.def Info: images/mobile/farmer/logistics.png  used on input line
+ 44.
+(pdftex.def)             Requested size: 74.9722pt x 162.2363pt.
+ [44 <./images/diagrammes/schema_relationnel.jpg> <./images/interfaces/farmer/f
+armer analytics.png> <./images/interfaces/farmer/farmer inventory.png>]
+<images/interfaces/buyer/buyer dashboard overview.png, id=671, 1320.43312pt x 6
+85.05937pt>
+File: images/interfaces/buyer/buyer dashboard overview.png Graphic file (type p
+ng)
+<use images/interfaces/buyer/buyer dashboard overview.png>
+Package pdftex.def Info: images/interfaces/buyer/buyer dashboard overview.png  
+used on input line 57.
+(pdftex.def)             Requested size: 211.68663pt x 109.8208pt.
+<images/interfaces/buyer/buyer analytics.png, id=672, 1303.11844pt x 706.89093p
+t>
+File: images/interfaces/buyer/buyer analytics.png Graphic file (type png)
+<use images/interfaces/buyer/buyer analytics.png>
+Package pdftex.def Info: images/interfaces/buyer/buyer analytics.png  used on i
+nput line 63.
+(pdftex.def)             Requested size: 211.68663pt x 114.83066pt.
+<images/interfaces/buyer/buyer reviews history.png, id=673, 1289.56781pt x 467.
+49657pt>
+File: images/interfaces/buyer/buyer reviews history.png Graphic file (type png)
+
+<use images/interfaces/buyer/buyer reviews history.png>
+Package pdftex.def Info: images/interfaces/buyer/buyer reviews history.png  use
+d on input line 74.
+(pdftex.def)             Requested size: 198.45663pt x 71.94048pt.
+<images/mobile/buyer/market.png, id=674, 587.19376pt x 1270.7475pt>
+File: images/mobile/buyer/market.png Graphic file (type png)
+<use images/mobile/buyer/market.png>
+Package pdftex.def Info: images/mobile/buyer/market.png  used on input line 80.
+
+(pdftex.def)             Requested size: 74.9722pt x 162.2363pt.
+<images/mobile/buyer/orders.png, id=675, 587.19376pt x 1270.7475pt>
+File: images/mobile/buyer/orders.png Graphic file (type png)
+<use images/mobile/buyer/orders.png>
+Package pdftex.def Info: images/mobile/buyer/orders.png  used on input line 86.
+
+(pdftex.def)             Requested size: 74.9722pt x 162.2363pt.
+<images/mobile/buyer/cart.png, id=676, 587.19376pt x 1270.7475pt>
+File: images/mobile/buyer/cart.png Graphic file (type png)
+<use images/mobile/buyer/cart.png>
+Package pdftex.def Info: images/mobile/buyer/cart.png  used on input line 92.
+(pdftex.def)             Requested size: 74.9722pt x 162.2363pt.
+<images/interfaces/transporter/transporter dashboard.png, id=677, 1376.89406pt 
+x 709.14937pt>
+File: images/interfaces/transporter/transporter dashboard.png Graphic file (typ
+e png)
+<use images/interfaces/transporter/transporter dashboard.png>
+Package pdftex.def Info: images/interfaces/transporter/transporter dashboard.pn
+g  used on input line 105.
+(pdftex.def)             Requested size: 211.68663pt x 109.01889pt.
+<images/interfaces/transporter/transporter missions.png, id=678, 1376.14125pt x
+ 702.37407pt>
+File: images/interfaces/transporter/transporter missions.png Graphic file (type
+ png)
+<use images/interfaces/transporter/transporter missions.png>
+Package pdftex.def Info: images/interfaces/transporter/transporter missions.png
+  used on input line 111.
+(pdftex.def)             Requested size: 211.68663pt x 108.04161pt.
+ [45 <./images/interfaces/farmer/farmer orders.png> <./images/mobile/farmer/das
+hboard.png> <./images/mobile/farmer/inventory.png> <./images/mobile/farmer/logi
+stics.png> <./images/interfaces/buyer/buyer dashboard overview.png> <./images/i
+nterfaces/buyer/buyer analytics.png> <./images/interfaces/buyer/buyer reviews h
+istory.png> <./images/mobile/buyer/market.png> <./images/mobile/buyer/orders.pn
+g> <./images/mobile/buyer/cart.png>]
+<images/interfaces/transporter/transporter profile.png, id=690, 1373.13pt x 705
+.38531pt>
+File: images/interfaces/transporter/transporter profile.png Graphic file (type 
+png)
+<use images/interfaces/transporter/transporter profile.png>
+Package pdftex.def Info: images/interfaces/transporter/transporter profile.png 
+ used on input line 122.
+(pdftex.def)             Requested size: 198.45663pt x 101.9392pt.
+<images/mobile/transporter/history.png, id=691, 587.19376pt x 1270.7475pt>
+File: images/mobile/transporter/history.png Graphic file (type png)
+<use images/mobile/transporter/history.png>
+Package pdftex.def Info: images/mobile/transporter/history.png  used on input l
+ine 128.
+(pdftex.def)             Requested size: 74.9722pt x 162.2363pt.
+<images/mobile/transporter/mission.png, id=692, 587.19376pt x 1270.7475pt>
+File: images/mobile/transporter/mission.png Graphic file (type png)
+<use images/mobile/transporter/mission.png>
+Package pdftex.def Info: images/mobile/transporter/mission.png  used on input l
+ine 134.
+(pdftex.def)             Requested size: 74.9722pt x 162.2363pt.
+<images/mobile/transporter/missions.png, id=693, 587.19376pt x 1270.7475pt>
+File: images/mobile/transporter/missions.png Graphic file (type png)
+<use images/mobile/transporter/missions.png>
+Package pdftex.def Info: images/mobile/transporter/missions.png  used on input 
+line 140.
+(pdftex.def)             Requested size: 74.9722pt x 162.2363pt.
+<images/interfaces/ministry/ministrt user details.png, id=694, 1379.1525pt x 70
+3.87968pt>
+File: images/interfaces/ministry/ministrt user details.png Graphic file (type p
+ng)
+<use images/interfaces/ministry/ministrt user details.png>
+Package pdftex.def Info: images/interfaces/ministry/ministrt user details.png  
+used on input line 153.
+(pdftex.def)             Requested size: 211.68663pt x 108.03693pt.
+<images/interfaces/ministry/ministry analytics.png, id=695, 1382.91656pt x 711.
+4078pt>
+File: images/interfaces/ministry/ministry analytics.png Graphic file (type png)
+
+<use images/interfaces/ministry/ministry analytics.png>
+Package pdftex.def Info: images/interfaces/ministry/ministry analytics.png  use
+d on input line 159.
+(pdftex.def)             Requested size: 211.68663pt x 108.88846pt.
+<images/interfaces/ministry/ministry official prices.png, id=696, 1379.1525pt x
+ 705.38531pt>
+File: images/interfaces/ministry/ministry official prices.png Graphic file (typ
+e png)
+<use images/interfaces/ministry/ministry official prices.png>
+Package pdftex.def Info: images/interfaces/ministry/ministry official prices.pn
+g  used on input line 168.
+(pdftex.def)             Requested size: 211.68663pt x 108.26802pt.
+<images/interfaces/ministry/ministry regianal data.png, id=697, 1385.92781pt x 
+701.62125pt>
+File: images/interfaces/ministry/ministry regianal data.png Graphic file (type 
+png)
+<use images/interfaces/ministry/ministry regianal data.png>
+Package pdftex.def Info: images/interfaces/ministry/ministry regianal data.png 
+ used on input line 174.
+(pdftex.def)             Requested size: 211.68663pt x 107.1657pt.
+)
+(sections2/deploiement.tex [46 <./images/interfaces/transporter/transporter das
+hboard.png> <./images/interfaces/transporter/transporter missions.png> <./image
+s/interfaces/transporter/transporter profile.png> <./images/mobile/transporter/
+history.png> <./images/mobile/transporter/mission.png> <./images/mobile/transpo
+rter/missions.png> <./images/interfaces/ministry/ministrt user details.png> <./
+images/interfaces/ministry/ministry analytics.png>]
+<images/diagrammes/deploiement.png, id=712, 732.7375pt x 897.3525pt>
+File: images/diagrammes/deploiement.png Graphic file (type png)
+<use images/diagrammes/deploiement.png>
+Package pdftex.def Info: images/diagrammes/deploiement.png  used on input line 
+18.
+(pdftex.def)             Requested size: 441.01775pt x 540.09982pt.
+)
+(sections2/technologies.tex [47 <./images/interfaces/ministry/ministry official
+ prices.png> <./images/interfaces/ministry/ministry regianal data.png>]
+[48 <./images/diagrammes/deploiement.png>]
+<images/structure/mobileStructure.png, id=726, 187.902pt x 402.303pt>
+File: images/structure/mobileStructure.png Graphic file (type png)
+<use images/structure/mobileStructure.png>
+Package pdftex.def Info: images/structure/mobileStructure.png  used on input li
+ne 41.
+(pdftex.def)             Requested size: 132.30666pt x 283.28601pt.
+<images/structure/webStructure.png, id=727, 256.70906pt x 498.36188pt>
+File: images/structure/webStructure.png Graphic file (type png)
+<use images/structure/webStructure.png>
+Package pdftex.def Info: images/structure/webStructure.png  used on input line 
+47.
+(pdftex.def)             Requested size: 132.30666pt x 256.85313pt.
+<images/structure/backendStructure.png, id=728, 229.45724pt x 378.213pt>
+File: images/structure/backendStructure.png Graphic file (type png)
+<use images/structure/backendStructure.png>
+Package pdftex.def Info: images/structure/backendStructure.png  used on input l
+ine 53.
+(pdftex.def)             Requested size: 132.30666pt x 218.0825pt.
+ [49]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 6
+0.
+
+(C:\Program Files\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Overfull \hbox (73.4403pt too wide) in paragraph at lines 72--73
+[] []\T1/lmr/bx/n/12 Log-i-cal Or-ga-ni-za-tion (MVT Ar-chi-tec-ture)[] \T1/lmr
+/m/n/12 The back-end fol-lows the \T1/lmr/bx/n/12 Model^^UView^^UTemplate
+ []
+
+
+Overfull \hbox (6.15192pt too wide) in paragraph at lines 79--80
+[]\T1/lmr/bx/n/12 Template: \T1/lmr/m/n/12 In this project, the tem-plate layer
+ is re-placed by the fron-tend (Next.js),
+ []
+
+[50 <./images/structure/mobileStructure.png> <./images/structure/webStructure.p
+ng> <./images/structure/backendStructure.png>]
+Overfull \hbox (51.81041pt too wide) in paragraph at lines 89--90
+[]\T1/lmr/bx/n/12 Repository Link (Web): \T1/lmtt/m/n/12 https://github.com/Dab
+bacheDjawad/AGRIGOV-MARKET.git 
+ []
+
+
+Overfull \hbox (70.66643pt too wide) in paragraph at lines 90--91
+[]\T1/lmr/bx/n/12 Repository Link (mo-bile): \T1/lmtt/m/n/12 https://github.com
+/BenhamadaKhalil/Agrigov-mobile.git 
+ []
+
+) (sections2/conclusion.tex)) (GlobalConclusion.tex [51]) [52
+
+] [53
+
+]
+Overfull \hbox (3.1916pt too wide) in paragraph at lines 34--34
+[]\T1/lmr/m/n/12 M. Fowler, \T1/lmr/m/it/12 Pat-terns of En-ter-prise Ap-pli-ca
+-tion Ar-chi-tec-ture\T1/lmr/m/n/12 . Addison-Wesley, 2002. 
+ []
+
+
+Overfull \hbox (1.6486pt too wide) in paragraph at lines 34--34
+\T1/lmr/m/n/12 ence re-search ap-proach,^^Q \T1/lmr/m/it/12 In-ter-na-tional Jo
+ur-nal of Pro-duc-tion Eco-nomics\T1/lmr/m/n/12 , vol. 268,
+ []
+
+[54]
+runsystem(latexminted cleantemp  --timestamp 20260424004055 A02C83A7DBD96295BEA
+EFB72C2BEE2DE)...disabled (restricted).
+
+ (Main.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+Package rerunfilecheck Warning: File `Main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Main.out':
+(rerunfilecheck)             Before: F2B1D22A9B0ACA8776B3DFB6A0CCC67D;8854
+(rerunfilecheck)             After:  8669B75C04DF48E9DFD55AE0DF27F32D;9014.
+Package logreq Info: Writing requests to 'Main.run.xml'.
+\openout1 = `Main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 27650 strings out of 467866
+ 550892 string characters out of 5428396
+ 1472384 words of memory out of 5000000
+ 55938 multiletter control sequences out of 15000+600000
+ 693826 words of font info for 77 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 79i,11n,84p,890b,2344s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/M
+iKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/pu
+blic/lm/lmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/
+Program Files/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX/f
+onts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/
+lmtt12.pfb>
+Output written on Main.pdf (55 pages, 13288040 bytes).
+PDF statistics:
+ 857 PDF objects out of 1000 (max. 8388607)
+ 200 named destinations out of 1000 (max. 500000)
+ 787 words of extra memory for PDF output out of 10000 (max. 10000000)
+

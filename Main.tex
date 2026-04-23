@@ -1,0 +1,35 @@
+\documentclass[12pt,a4paper]{report}
+
+% Load settings (packages, layout, bibliography...)
+\input{settings}
+
+\begin{document}
+	
+	% ---------------- Front matter ----------------
+	
+	% Title page 
+	\input{sections1/TitlePage}
+	\cleardoublepage
+	
+	% Table of contents 
+	\tableofcontents
+	\cleardoublepage
+	
+	% List of figures
+	\listoffigures
+	\cleardoublepage
+	
+	% List of tables
+	\listoftables
+	\cleardoublepage
+	
+	% ---------------- Main matter ----------------
+	\input{GlobalIntro}
+	\input{chapter1}
+	
+	\input{chapter2}
+	\input{GlobalConclusion}
+	% ---------------- Bibliography ----------------
+	\printbibliography
+	
+\end{document}

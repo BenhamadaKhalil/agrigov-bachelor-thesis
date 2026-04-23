@@ -1,0 +1,31 @@
+\babel@toc {english}{}\relax 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces FBN-Interface :https://www.fbn.com/}}{7}{figure.caption.5}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces eNAM :www.enam.gov.in}}{8}{figure.caption.6}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces GhAAP: https://ghaap.com/}}{8}{figure.caption.7}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces AgriGov Market System Context Diagram}}{13}{figure.caption.10}%
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Use Case Diagram -- Buyer}}{15}{figure.caption.11}%
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Use Case Diagram -- Farmer}}{16}{figure.caption.12}%
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Use Case Diagram -- Transporter}}{17}{figure.caption.13}%
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Use Case Diagram -- Ministry (Administrator)}}{18}{figure.caption.14}%
+\contentsline {figure}{\numberline {1.9}{\ignorespaces Use Case Diagram -- Globale}}{19}{figure.caption.15}%
+\contentsline {figure}{\numberline {1.10}{\ignorespaces System Sequence Diagram -- UC01 Authentication}}{21}{figure.caption.17}%
+\contentsline {figure}{\numberline {1.11}{\ignorespaces System Sequence Diagram -- Decide Delivery Mission}}{23}{figure.caption.19}%
+\contentsline {figure}{\numberline {1.12}{\ignorespaces System Sequence Diagram -- User Validation}}{25}{figure.caption.21}%
+\contentsline {figure}{\numberline {1.13}{\ignorespaces System Sequence Diagram -- Search Product}}{27}{figure.caption.23}%
+\contentsline {figure}{\numberline {1.14}{\ignorespaces System Sequence Diagram -- Decide Order}}{29}{figure.caption.25}%
+\contentsline {figure}{\numberline {1.15}{\ignorespaces Global Navigation Diagram}}{30}{figure.caption.26}%
+\contentsline {figure}{\numberline {1.16}{\ignorespaces Farmer Navigation Diagram}}{31}{figure.caption.27}%
+\contentsline {figure}{\numberline {1.18}{\ignorespaces Farmer Interface Mockups}}{32}{figure.caption.29}%
+\contentsline {figure}{\numberline {1.19}{\ignorespaces Buyer Navigation Diagram}}{33}{figure.caption.30}%
+\contentsline {figure}{\numberline {1.21}{\ignorespaces Buyer Interface Mockups}}{34}{figure.caption.32}%
+\contentsline {figure}{\numberline {1.22}{\ignorespaces Transporter Navigation Diagram}}{34}{figure.caption.33}%
+\contentsline {figure}{\numberline {1.24}{\ignorespaces Transporter Interface Mockups}}{35}{figure.caption.35}%
+\contentsline {figure}{\numberline {1.25}{\ignorespaces Ministry Navigation Diagram}}{36}{figure.caption.36}%
+\contentsline {figure}{\numberline {1.27}{\ignorespaces Ministry Interface Mockups}}{37}{figure.caption.38}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Class Diagram of the System}}{39}{figure.caption.39}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Global Activity Diagram}}{41}{figure.caption.40}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Relational Schema}}{44}{figure.caption.41}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Deployment Diagram}}{48}{figure.caption.50}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Overall Project Structure}}{50}{figure.caption.52}%
