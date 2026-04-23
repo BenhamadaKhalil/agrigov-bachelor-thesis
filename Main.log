@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.7)  24 APR 2026 00:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.7)  24 APR 2026 01:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -820,10 +820,8 @@ Package caption Info: New subtype `subfigure' on input line 238.
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count481
 ))
-Package csquotes Info: Checking for multilingual support...
-Package csquotes Info: ... found 'babel' package.
-Package csquotes Info: Adjusting default style.
-Package csquotes Info: Redefining alias 'default' -> 'english'.
+(C:\Program Files\MiKTeX\tex/latex/qrcode\qrcode.sty
+Package: qrcode 2015/01/08 v1.51 QR code generation
 
 (C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
@@ -844,12 +842,56 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 )
+(C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks37
+\XKV@tempa@toks=\toks38
+)
+\XKV@depth=\count482
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\c@qr@i=\count483
+\c@qr@j=\count484
+\qr@a=\count485
+\qr@b=\count486
+\qr@c=\count487
+\qr@for@depth=\count488
+\qr@for@maxdepth=\count489
+\qr@for@start=\count490
+\qr@for@end=\count491
+\qr@for@step=\count492
+\qr@newforcount=\count493
+\qr@newforcount=\count494
+\qr@desiredheight=\skip80
+\qr@modulesize=\skip81
+\qr@minipagewidth=\skip82
+\c@maski=\count495
+\c@maskj=\count496
+\c@totalones=\count497
+\c@penaltyi=\count498
+\c@penaltyii=\count499
+\c@penaltyiii=\count500
+\c@penaltyiv=\count501
+\c@qr@hexchars=\count502
+\qr@newforcount=\count503
+\c@qr@divisionsremaining=\count504
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'english'.
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 6.
 
 
 (C:\Program Files\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (Main.aux)
+) (Main.aux
+<Reading QR code for "https://github.com/BenhamadaKhalil/agrigov-bachelor-thesi
+s/tree/main/images/QR" at level 5-M from aux file.>
+)
 \openout1 = `Main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -908,17 +950,17 @@ LaTeX Font Info:    ... okay on input line 6.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count482
+\scratchcounter=\count505
 \scratchdimen=\dimen266
 \scratchbox=\box65
-\nofMPsegments=\count483
-\nofMParguments=\count484
-\everyMPshowfont=\toks37
-\MPscratchCnt=\count485
+\nofMPsegments=\count506
+\nofMParguments=\count507
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count508
 \MPscratchDim=\dimen267
-\MPnumerator=\count486
-\makeMPintoPDFobject=\count487
-\everyMPtoPDFconversion=\toks38
+\MPnumerator=\count509
+\makeMPintoPDFobject=\count510
+\everyMPtoPDFconversion=\toks40
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -986,7 +1028,7 @@ Package hyperref Info: Link coloring ON on input line 6.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<images/logo/UC2.png, id=210, 451.6875pt x 451.6875pt>
+<images/logo/UC2.png, id=214, 451.6875pt x 451.6875pt>
 File: images/logo/UC2.png Graphic file (type png)
 <use images/logo/UC2.png>
 Package pdftex.def Info: images/logo/UC2.png  used on input line 19.
@@ -1037,7 +1079,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<images/logo/ntic.png, id=212, 72.27pt x 72.7518pt>
+<images/logo/ntic.png, id=216, 72.27pt x 72.7518pt>
 File: images/logo/ntic.png Graphic file (type png)
 <use images/logo/ntic.png>
 Package pdftex.def Info: images/logo/ntic.png  used on input line 31.
@@ -1095,7 +1137,7 @@ Chapter 1.
 (sections1/introduction.tex) (sections1/ExistingSystems.tex [6
 
 ]
-<images/existingHome/fbn_interface.png.jpg, id=384, 963.6pt x 443.40656pt>
+<images/existingHome/fbn_interface.png.jpg, id=389, 963.6pt x 443.40656pt>
 File: images/existingHome/fbn_interface.png.jpg Graphic file (type jpg)
 <use images/existingHome/fbn_interface.png.jpg>
 Package pdftex.def Info: images/existingHome/fbn_interface.png.jpg  used on inp
@@ -1107,7 +1149,7 @@ Overfull \hbox (6.65956pt too wide) in paragraph at lines 26--28
 t-driven project launched
  []
 
-<images/existingHome/enam_interface.png.jpg, id=385, 963.6pt x 502.12593pt>
+<images/existingHome/enam_interface.png.jpg, id=390, 963.6pt x 502.12593pt>
 File: images/existingHome/enam_interface.png.jpg Graphic file (type jpg)
 <use images/existingHome/enam_interface.png.jpg>
 Package pdftex.def Info: images/existingHome/enam_interface.png.jpg  used on in
@@ -1124,7 +1166,7 @@ Overfull \hbox (8.71774pt too wide) in paragraph at lines 46--47
 or-di-na-tion, trans-parency,
  []
 
-<images/existingHome/ghaap_interface.png, id=391, 1124.40076pt x 543.83176pt>
+<images/existingHome/ghaap_interface.png, id=396, 1124.40076pt x 543.83176pt>
 File: images/existingHome/ghaap_interface.png Graphic file (type png)
 <use images/existingHome/ghaap_interface.png>
 Package pdftex.def Info: images/existingHome/ghaap_interface.png  used on input
@@ -1187,21 +1229,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
 [8 <./images/existingHome/enam_interface.png.jpg> <./images/existingHome/ghaap_
 interface.png>] [9]) (sections1/definitions.tex [10] [11] [12]
-<images/diagrammes/DCS.png, id=417, 525.162pt x 296.307pt>
+<images/diagrammes/DCS.png, id=422, 525.162pt x 296.307pt>
 File: images/diagrammes/DCS.png Graphic file (type png)
 <use images/diagrammes/DCS.png>
 Package pdftex.def Info: images/diagrammes/DCS.png  used on input line 130.
 (pdftex.def)             Requested size: 441.01775pt x 248.83289pt.
 )
 (sections1/UseCases.tex [13 <./images/diagrammes/DCS.png>]
-<images/diagrammes/buyerUCD.png, id=424, 378.213pt x 375.20175pt>
+<images/diagrammes/buyerUCD.png, id=429, 378.213pt x 375.20175pt>
 File: images/diagrammes/buyerUCD.png Graphic file (type png)
 <use images/diagrammes/buyerUCD.png>
 Package pdftex.def Info: images/diagrammes/buyerUCD.png  used on input line 21.
 
 (pdftex.def)             Requested size: 418.9655pt x 415.65445pt.
  [14]
-<images/diagrammes/farmerUCD.png, id=429, 499.8675pt x 416.15475pt>
+<images/diagrammes/farmerUCD.png, id=434, 499.8675pt x 416.15475pt>
 File: images/diagrammes/farmerUCD.png Graphic file (type png)
 <use images/diagrammes/farmerUCD.png>
 Package pdftex.def Info: images/diagrammes/farmerUCD.png  used on input line 37
@@ -1213,7 +1255,7 @@ Overfull \hbox (22.05223pt too wide) in paragraph at lines 37--38
  []
 
 [15 <./images/diagrammes/buyerUCD.png>]
-<images/diagrammes/transporterUCD.png, id=435, 437.2335pt x 323.40825pt>
+<images/diagrammes/transporterUCD.png, id=440, 437.2335pt x 323.40825pt>
 File: images/diagrammes/transporterUCD.png Graphic file (type png)
 <use images/diagrammes/transporterUCD.png>
 Package pdftex.def Info: images/diagrammes/transporterUCD.png  used on input li
@@ -1225,14 +1267,14 @@ Overfull \hbox (22.05223pt too wide) in paragraph at lines 54--55
  []
 
 [16 <./images/diagrammes/farmerUCD.png>]
-<images/diagrammes/ministryUCD.png, id=441, 380.622pt x 343.2825pt>
+<images/diagrammes/ministryUCD.png, id=446, 380.622pt x 343.2825pt>
 File: images/diagrammes/ministryUCD.png Graphic file (type png)
 <use images/diagrammes/ministryUCD.png>
 Package pdftex.def Info: images/diagrammes/ministryUCD.png  used on input line 
 69.
 (pdftex.def)             Requested size: 418.9655pt x 377.88951pt.
  [17 <./images/diagrammes/transporterUCD.png>]
-<images/diagrammes/GlobalUCD.png, id=447, 377.61075pt x 392.06474pt>
+<images/diagrammes/GlobalUCD.png, id=452, 377.61075pt x 392.06474pt>
 File: images/diagrammes/GlobalUCD.png Graphic file (type png)
 <use images/diagrammes/GlobalUCD.png>
 Package pdftex.def Info: images/diagrammes/GlobalUCD.png  used on input line 77
@@ -1254,7 +1296,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--50
  []
 
 [19 <./images/diagrammes/GlobalUCD.png>]
-<images/diagrammes/Authentication.png, id=459, 668.4975pt x 476.37975pt>
+<images/diagrammes/Authentication.png, id=464, 668.4975pt x 476.37975pt>
 File: images/diagrammes/Authentication.png Graphic file (type png)
 <use images/diagrammes/Authentication.png>
 Package pdftex.def Info: images/diagrammes/Authentication.png  used on input li
@@ -1276,7 +1318,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--120
  []
 
 [21 <./images/diagrammes/Authentication.png>]
-<images/diagrammes/DecideMilestone.png, id=474, 599.841pt x 503.481pt>
+<images/diagrammes/DecideMilestone.png, id=479, 599.841pt x 503.481pt>
 File: images/diagrammes/DecideMilestone.png Graphic file (type png)
 <use images/diagrammes/DecideMilestone.png>
 Package pdftex.def Info: images/diagrammes/DecideMilestone.png  used on input l
@@ -1298,7 +1340,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 177--177
  []
 
 [23 <./images/diagrammes/DecideMilestone.png>]
-<images/diagrammes/userValidation.png, id=488, 668.4975pt x 507.0945pt>
+<images/diagrammes/userValidation.png, id=493, 668.4975pt x 507.0945pt>
 File: images/diagrammes/userValidation.png Graphic file (type png)
 <use images/diagrammes/userValidation.png>
 Package pdftex.def Info: images/diagrammes/userValidation.png  used on input li
@@ -1320,7 +1362,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 239--239
  []
 
 [25 <./images/diagrammes/userValidation.png>]
-<images/diagrammes/SearchProduct.png, id=504, 499.8675pt x 461.92575pt>
+<images/diagrammes/SearchProduct.png, id=509, 499.8675pt x 461.92575pt>
 File: images/diagrammes/SearchProduct.png Graphic file (type png)
 <use images/diagrammes/SearchProduct.png>
 Package pdftex.def Info: images/diagrammes/SearchProduct.png  used on input lin
@@ -1337,7 +1379,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 303--303
  []
 
 [27 <./images/diagrammes/SearchProduct.png>]
-<images/diagrammes/decideOrder.png, id=517, 446.8695pt x 519.1395pt>
+<images/diagrammes/decideOrder.png, id=522, 446.8695pt x 519.1395pt>
 File: images/diagrammes/decideOrder.png Graphic file (type png)
 <use images/diagrammes/decideOrder.png>
 Package pdftex.def Info: images/diagrammes/decideOrder.png  used on input line 
@@ -1345,7 +1387,7 @@ Package pdftex.def Info: images/diagrammes/decideOrder.png  used on input line
 (pdftex.def)             Requested size: 418.9655pt x 486.74751pt.
  [28]) (sections1/Mockups.tex
 [29 <./images/diagrammes/decideOrder.png>]
-<images/navigation/global-navigation.png, id=532, 1073.81175pt x 548.64975pt>
+<images/navigation/global-navigation.png, id=537, 1073.81175pt x 548.64975pt>
 File: images/navigation/global-navigation.png Graphic file (type png)
 <use images/navigation/global-navigation.png>
 Package pdftex.def Info: images/navigation/global-navigation.png  used on input
@@ -1356,19 +1398,19 @@ Overfull \hbox (72.32176pt too wide) in paragraph at lines 18--20
 []  [] 
  []
 
-<images/navigation/farmer-navigation.jpg, id=533, 777.65532pt x 551.05875pt>
+<images/navigation/farmer-navigation.jpg, id=538, 777.65532pt x 551.05875pt>
 File: images/navigation/farmer-navigation.jpg Graphic file (type jpg)
 <use images/navigation/farmer-navigation.jpg>
 Package pdftex.def Info: images/navigation/farmer-navigation.jpg  used on input
  line 32.
 (pdftex.def)             Requested size: 396.91327pt x 281.26326pt.
-<images/figma/farmer/Overview.jpg, id=534, 963.6pt x 496.10344pt>
+<images/figma/farmer/Overview.jpg, id=539, 963.6pt x 496.10344pt>
 File: images/figma/farmer/Overview.jpg Graphic file (type jpg)
 <use images/figma/farmer/Overview.jpg>
 Package pdftex.def Info: images/figma/farmer/Overview.jpg  used on input line 4
 2.
 (pdftex.def)             Requested size: 198.45663pt x 102.17119pt.
-<images/figma/farmer/Transportation mission control.jpg, id=535, 963.6pt x 510.
+<images/figma/farmer/Transportation mission control.jpg, id=540, 963.6pt x 510.
 40688pt>
 File: images/figma/farmer/Transportation mission control.jpg Graphic file (type
  jpg)
@@ -1377,7 +1419,7 @@ Package pdftex.def Info: images/figma/farmer/Transportation mission control.jpg
   used on input line 48.
 (pdftex.def)             Requested size: 198.45663pt x 105.11694pt.
 [30 <./images/navigation/global-navigation.png>]
-<images/figma/farmer/Farmer Inventory Management.png, id=543, 1284.8pt x 1008.7
+<images/figma/farmer/Farmer Inventory Management.png, id=548, 1284.8pt x 1008.7
 6875pt>
 File: images/figma/farmer/Farmer Inventory Management.png Graphic file (type pn
 g)
@@ -1385,13 +1427,13 @@ g)
 Package pdftex.def Info: images/figma/farmer/Farmer Inventory Management.png  u
 sed on input line 60.
 (pdftex.def)             Requested size: 198.45663pt x 155.8188pt.
-<images/figma/farmer/Product Management.png, id=544, 1284.8pt x 1027.84pt>
+<images/figma/farmer/Product Management.png, id=549, 1284.8pt x 1027.84pt>
 File: images/figma/farmer/Product Management.png Graphic file (type png)
 <use images/figma/farmer/Product Management.png>
 Package pdftex.def Info: images/figma/farmer/Product Management.png  used on in
 put line 66.
 (pdftex.def)             Requested size: 198.45663pt x 158.76462pt.
-<images/figma/farmer/Order History and Invoices.png, id=545, 1284.8pt x 1146.28
+<images/figma/farmer/Order History and Invoices.png, id=550, 1284.8pt x 1146.28
 25pt>
 File: images/figma/farmer/Order History and Invoices.png Graphic file (type png
 )
@@ -1399,14 +1441,14 @@ File: images/figma/farmer/Order History and Invoices.png Graphic file (type png
 Package pdftex.def Info: images/figma/farmer/Order History and Invoices.png  us
 ed on input line 81.
 (pdftex.def)             Requested size: 188.53319pt x 168.19191pt.
-<images/mobile/exports/inventorymanagement.png, id=546, 394.47375pt x 874.01532
+<images/mobile/exports/inventorymanagement.png, id=551, 394.47375pt x 874.01532
 pt>
 File: images/mobile/exports/inventorymanagement.png Graphic file (type png)
 <use images/mobile/exports/inventorymanagement.png>
 Package pdftex.def Info: images/mobile/exports/inventorymanagement.png  used on
  input line 88.
 (pdftex.def)             Requested size: 71.22336pt x 157.79608pt.
-<images/mobile/exports/logistics.png, id=547, 413.29407pt x 1014.79124pt>
+<images/mobile/exports/logistics.png, id=552, 413.29407pt x 1014.79124pt>
 File: images/mobile/exports/logistics.png Graphic file (type png)
 <use images/mobile/exports/logistics.png>
 Package pdftex.def Info: images/mobile/exports/logistics.png  used on input lin
@@ -1417,7 +1459,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--95
 []\T1/lmr/m/n/10.95 (e) |Mo-bile
  []
 
-<images/mobile/exports/productManagement.png, id=548, 456.95718pt x 1115.66812p
+<images/mobile/exports/productManagement.png, id=553, 456.95718pt x 1115.66812p
 t>
 File: images/mobile/exports/productManagement.png Graphic file (type png)
 <use images/mobile/exports/productManagement.png>
@@ -1431,20 +1473,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--101
 
 [31 <./images/navigation/farmer-navigation.jpg> <./images/figma/farmer/Overview
 .jpg> <./images/figma/farmer/Transportation mission control.jpg>]
-<images/navigation/buyer-navigation.jpg, id=554, 705.38531pt x 557.83406pt>
+<images/navigation/buyer-navigation.jpg, id=559, 705.38531pt x 557.83406pt>
 File: images/navigation/buyer-navigation.jpg Graphic file (type jpg)
 <use images/navigation/buyer-navigation.jpg>
 Package pdftex.def Info: images/navigation/buyer-navigation.jpg  used on input 
 line 114.
 (pdftex.def)             Requested size: 396.91327pt x 313.88303pt.
-<images/figma/buyer/Buyer Marketplace Catalog.png, id=555, 966.61125pt x 878.53
+<images/figma/buyer/Buyer Marketplace Catalog.png, id=560, 966.61125pt x 878.53
 218pt>
 File: images/figma/buyer/Buyer Marketplace Catalog.png Graphic file (type png)
 <use images/figma/buyer/Buyer Marketplace Catalog.png>
 Package pdftex.def Info: images/figma/buyer/Buyer Marketplace Catalog.png  used
  on input line 122.
 (pdftex.def)             Requested size: 198.45663pt x 180.36836pt.
-<images/figma/buyer/order history.jpg, id=556, 963.6pt x 859.71187pt>
+<images/figma/buyer/order history.jpg, id=561, 963.6pt x 859.71187pt>
 File: images/figma/buyer/order history.jpg Graphic file (type jpg)
 <use images/figma/buyer/order history.jpg>
 Package pdftex.def Info: images/figma/buyer/order history.jpg  used on input li
@@ -1454,7 +1496,7 @@ ne 128.
 rmer/Product Management.png> <./images/figma/farmer/Order History and Invoices.
 png> <./images/mobile/exports/inventorymanagement.png> <./images/mobile/exports
 /logistics.png> <./images/mobile/exports/productManagement.png>]
-<images/figma/buyer/Product Specification Details.png, id=567, 666.99188pt x 65
+<images/figma/buyer/Product Specification Details.png, id=572, 666.99188pt x 65
 7.95813pt>
 File: images/figma/buyer/Product Specification Details.png Graphic file (type p
 ng)
@@ -1462,19 +1504,19 @@ ng)
 Package pdftex.def Info: images/figma/buyer/Product Specification Details.png  
 used on input line 141.
 (pdftex.def)             Requested size: 198.45663pt x 195.76254pt.
-<images/mobile/exports/orderhistory.png, id=568, 335.75438pt x 947.03813pt>
+<images/mobile/exports/orderhistory.png, id=573, 335.75438pt x 947.03813pt>
 File: images/mobile/exports/orderhistory.png Graphic file (type png)
 <use images/mobile/exports/orderhistory.png>
 Package pdftex.def Info: images/mobile/exports/orderhistory.png  used on input 
 line 147.
 (pdftex.def)             Requested size: 74.9722pt x 211.47037pt.
-<images/mobile/exports/productdetail.png, id=569, 331.99031pt x 932.73468pt>
+<images/mobile/exports/productdetail.png, id=574, 331.99031pt x 932.73468pt>
 File: images/mobile/exports/productdetail.png Graphic file (type png)
 <use images/mobile/exports/productdetail.png>
 Package pdftex.def Info: images/mobile/exports/productdetail.png  used on input
  line 152.
 (pdftex.def)             Requested size: 74.9722pt x 210.63902pt.
-<images/mobile/exports/catalog.png, id=570, 233.37187pt x 643.6547pt>
+<images/mobile/exports/catalog.png, id=575, 233.37187pt x 643.6547pt>
 File: images/mobile/exports/catalog.png Graphic file (type png)
 <use images/mobile/exports/catalog.png>
 Package pdftex.def Info: images/mobile/exports/catalog.png  used on input line 
@@ -1487,20 +1529,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 158--158
 
 [33 <./images/navigation/buyer-navigation.jpg> <./images/figma/buyer/Buyer Mark
 etplace Catalog.png> <./images/figma/buyer/order history.jpg>]
-<images/navigation/transporter-navigation.jpg, id=577, 627.84563pt x 526.21594p
+<images/navigation/transporter-navigation.jpg, id=582, 627.84563pt x 526.21594p
 t>
 File: images/navigation/transporter-navigation.jpg Graphic file (type jpg)
 <use images/navigation/transporter-navigation.jpg>
 Package pdftex.def Info: images/navigation/transporter-navigation.jpg  used on 
 input line 170.
 (pdftex.def)             Requested size: 396.91327pt x 332.65797pt.
-<images/figma/transporter/Body-1.jpg, id=578, 963.6pt x 770.88pt>
+<images/figma/transporter/Body-1.jpg, id=583, 963.6pt x 770.88pt>
 File: images/figma/transporter/Body-1.jpg Graphic file (type jpg)
 <use images/figma/transporter/Body-1.jpg>
 Package pdftex.def Info: images/figma/transporter/Body-1.jpg  used on input lin
 e 179.
 (pdftex.def)             Requested size: 198.45663pt x 158.76071pt.
-<images/figma/transporter/Transporter Mission Control.jpg, id=579, 963.6pt x 51
+<images/figma/transporter/Transporter Mission Control.jpg, id=584, 963.6pt x 51
 7.935pt>
 File: images/figma/transporter/Transporter Mission Control.jpg Graphic file (ty
 pe jpg)
@@ -1508,19 +1550,19 @@ pe jpg)
 Package pdftex.def Info: images/figma/transporter/Transporter Mission Control.j
 pg  used on input line 185.
 (pdftex.def)             Requested size: 198.45663pt x 106.66734pt.
-<images/mobile/exports/login.png, id=580, 347.79938pt x 805.50937pt>
+<images/mobile/exports/login.png, id=585, 347.79938pt x 805.50937pt>
 File: images/mobile/exports/login.png Graphic file (type png)
 <use images/mobile/exports/login.png>
 Package pdftex.def Info: images/mobile/exports/login.png  used on input line 20
 0.
 (pdftex.def)             Requested size: 74.9722pt x 173.63591pt.
-<images/mobile/exports/registration.png, id=581, 334.24875pt x 695.59875pt>
+<images/mobile/exports/registration.png, id=586, 334.24875pt x 695.59875pt>
 File: images/mobile/exports/registration.png Graphic file (type png)
 <use images/mobile/exports/registration.png>
 Package pdftex.def Info: images/mobile/exports/registration.png  used on input 
 line 206.
 (pdftex.def)             Requested size: 74.9722pt x 156.02533pt.
-<images/mobile/exports/missions.png, id=582, 304.13625pt x 724.20563pt>
+<images/mobile/exports/missions.png, id=587, 304.13625pt x 724.20563pt>
 File: images/mobile/exports/missions.png Graphic file (type png)
 <use images/mobile/exports/missions.png>
 Package pdftex.def Info: images/mobile/exports/missions.png  used on input line
@@ -1531,7 +1573,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--213
 []\T1/lmr/m/n/10.95 (c) |mis-sions
  []
 
-<images/mobile/exports/missioncontrol.png, id=583, 708.6475pt x 1606.0pt>
+<images/mobile/exports/missioncontrol.png, id=588, 708.6475pt x 1606.0pt>
 File: images/mobile/exports/missioncontrol.png Graphic file (type png)
 <use images/mobile/exports/missioncontrol.png>
 Package pdftex.def Info: images/mobile/exports/missioncontrol.png  used on inpu
@@ -1551,19 +1593,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 219--219
 es/mobile/exports/orderhistory.png> <./images/mobile/exports/productdetail.png>
  <./images/mobile/exports/catalog.png> <./images/navigation/transporter-navigat
 ion.jpg>]
-<images/navigation/ministry-navigation.jpg, id=591, 738.50906pt x 523.20468pt>
+<images/navigation/ministry-navigation.jpg, id=596, 738.50906pt x 523.20468pt>
 File: images/navigation/ministry-navigation.jpg Graphic file (type jpg)
 <use images/navigation/ministry-navigation.jpg>
 Package pdftex.def Info: images/navigation/ministry-navigation.jpg  used on inp
 ut line 231.
 (pdftex.def)             Requested size: 396.91327pt x 281.19308pt.
-<images/figma/ministry/user management.png, id=592, 963.6pt x 770.88pt>
+<images/figma/ministry/user management.png, id=597, 963.6pt x 770.88pt>
 File: images/figma/ministry/user management.png Graphic file (type png)
 <use images/figma/ministry/user management.png>
 Package pdftex.def Info: images/figma/ministry/user management.png  used on inp
 ut line 240.
 (pdftex.def)             Requested size: 198.45663pt x 158.76071pt.
-<images/figma/ministry/Ministry Admin Dashboard.png, id=593, 965.10562pt x 784.
+<images/figma/ministry/Ministry Admin Dashboard.png, id=598, 965.10562pt x 784.
 43062pt>
 File: images/figma/ministry/Ministry Admin Dashboard.png Graphic file (type png
 )
@@ -1575,13 +1617,13 @@ ed on input line 246.
 orter Mission Control.jpg> <./images/mobile/exports/login.png> <./images/mobile
 /exports/registration.png> <./images/mobile/exports/missions.png> <./images/mob
 ile/exports/missioncontrol.png>]
-<images/figma/ministry/category.png, id=602, 963.6pt x 770.88pt>
+<images/figma/ministry/category.png, id=607, 963.6pt x 770.88pt>
 File: images/figma/ministry/category.png Graphic file (type png)
 <use images/figma/ministry/category.png>
 Package pdftex.def Info: images/figma/ministry/category.png  used on input line
  257.
 (pdftex.def)             Requested size: 198.45663pt x 158.76071pt.
-<images/figma/ministry/Official Price Management.png, id=603, 966.61125pt x 725
+<images/figma/ministry/Official Price Management.png, id=608, 966.61125pt x 725
 .71124pt>
 File: images/figma/ministry/Official Price Management.png Graphic file (type pn
 g)
@@ -1597,7 +1639,7 @@ Chapter 2.
 (sections2/introduction.tex) (sections2/diagramme_classes.tex [38
 
 ]
-<images/diagrammes/diagramme_classe.jpg, id=625, 963.6pt x 584.93532pt>
+<images/diagrammes/diagramme_classe.jpg, id=630, 963.6pt x 584.93532pt>
 File: images/diagrammes/diagramme_classe.jpg Graphic file (type jpg)
 <use images/diagrammes/diagramme_classe.jpg>
 Package pdftex.def Info: images/diagrammes/diagramme_classe.jpg  used on input 
@@ -1606,7 +1648,7 @@ line 24.
 )
 (sections2/diagramme_activite.tex [39 <./images/diagrammes/diagramme_classe.jpg
 >]
-<images/diagrammes/diagramme_activite.png, id=633, 1678.27pt x 2407.99625pt>
+<images/diagrammes/diagramme_activite.png, id=638, 1678.27pt x 2407.99625pt>
 File: images/diagrammes/diagramme_activite.png Graphic file (type png)
 <use images/diagrammes/diagramme_activite.png>
 Package pdftex.def Info: images/diagrammes/diagramme_activite.png  used on inpu
@@ -1614,7 +1656,7 @@ t line 16.
 (pdftex.def)             Requested size: 441.01775pt x 632.7515pt.
  [40] [41 <./images/diagrammes/diagramme_activite.png>])
 (sections2/base_donnees.tex [42]
-<images/diagrammes/schema_relationnel.jpg, id=653, 642.4pt x 395.4775pt>
+<images/diagrammes/schema_relationnel.jpg, id=658, 642.4pt x 395.4775pt>
 File: images/diagrammes/schema_relationnel.jpg Graphic file (type jpg)
 <use images/diagrammes/schema_relationnel.jpg>
 Package pdftex.def Info: images/diagrammes/schema_relationnel.jpg  used on inpu
@@ -1626,39 +1668,39 @@ Overfull \hbox (44.10446pt too wide) in paragraph at lines 55--56
  []
 
 [43]) (sections2/interfaces.tex
-<images/interfaces/farmer/farmer analytics.png, id=658, 1385.175pt x 706.89093p
+<images/interfaces/farmer/farmer analytics.png, id=663, 1385.175pt x 706.89093p
 t>
 File: images/interfaces/farmer/farmer analytics.png Graphic file (type png)
 <use images/interfaces/farmer/farmer analytics.png>
 Package pdftex.def Info: images/interfaces/farmer/farmer analytics.png  used on
  input line 9.
 (pdftex.def)             Requested size: 211.68663pt x 108.02452pt.
-<images/interfaces/farmer/farmer inventory.png, id=659, 1390.44469pt x 710.655p
+<images/interfaces/farmer/farmer inventory.png, id=664, 1390.44469pt x 710.655p
 t>
 File: images/interfaces/farmer/farmer inventory.png Graphic file (type png)
 <use images/interfaces/farmer/farmer inventory.png>
 Package pdftex.def Info: images/interfaces/farmer/farmer inventory.png  used on
  input line 15.
 (pdftex.def)             Requested size: 211.68663pt x 108.18767pt.
-<images/interfaces/farmer/farmer orders.png, id=660, 1385.175pt x 708.39656pt>
+<images/interfaces/farmer/farmer orders.png, id=665, 1385.175pt x 708.39656pt>
 File: images/interfaces/farmer/farmer orders.png Graphic file (type png)
 <use images/interfaces/farmer/farmer orders.png>
 Package pdftex.def Info: images/interfaces/farmer/farmer orders.png  used on in
 put line 26.
 (pdftex.def)             Requested size: 198.45663pt x 101.488pt.
-<images/mobile/farmer/dashboard.png, id=661, 587.19376pt x 1270.7475pt>
+<images/mobile/farmer/dashboard.png, id=666, 587.19376pt x 1270.7475pt>
 File: images/mobile/farmer/dashboard.png Graphic file (type png)
 <use images/mobile/farmer/dashboard.png>
 Package pdftex.def Info: images/mobile/farmer/dashboard.png  used on input line
  32.
 (pdftex.def)             Requested size: 74.9722pt x 162.2363pt.
-<images/mobile/farmer/inventory.png, id=662, 587.19376pt x 1270.7475pt>
+<images/mobile/farmer/inventory.png, id=667, 587.19376pt x 1270.7475pt>
 File: images/mobile/farmer/inventory.png Graphic file (type png)
 <use images/mobile/farmer/inventory.png>
 Package pdftex.def Info: images/mobile/farmer/inventory.png  used on input line
  38.
 (pdftex.def)             Requested size: 74.9722pt x 162.2363pt.
-<images/mobile/farmer/logistics.png, id=663, 587.19376pt x 1270.7475pt>
+<images/mobile/farmer/logistics.png, id=668, 587.19376pt x 1270.7475pt>
 File: images/mobile/farmer/logistics.png Graphic file (type png)
 <use images/mobile/farmer/logistics.png>
 Package pdftex.def Info: images/mobile/farmer/logistics.png  used on input line
@@ -1666,7 +1708,7 @@ Package pdftex.def Info: images/mobile/farmer/logistics.png  used on input line
 (pdftex.def)             Requested size: 74.9722pt x 162.2363pt.
  [44 <./images/diagrammes/schema_relationnel.jpg> <./images/interfaces/farmer/f
 armer analytics.png> <./images/interfaces/farmer/farmer inventory.png>]
-<images/interfaces/buyer/buyer dashboard overview.png, id=671, 1320.43312pt x 6
+<images/interfaces/buyer/buyer dashboard overview.png, id=676, 1320.43312pt x 6
 85.05937pt>
 File: images/interfaces/buyer/buyer dashboard overview.png Graphic file (type p
 ng)
@@ -1674,14 +1716,14 @@ ng)
 Package pdftex.def Info: images/interfaces/buyer/buyer dashboard overview.png  
 used on input line 57.
 (pdftex.def)             Requested size: 211.68663pt x 109.8208pt.
-<images/interfaces/buyer/buyer analytics.png, id=672, 1303.11844pt x 706.89093p
+<images/interfaces/buyer/buyer analytics.png, id=677, 1303.11844pt x 706.89093p
 t>
 File: images/interfaces/buyer/buyer analytics.png Graphic file (type png)
 <use images/interfaces/buyer/buyer analytics.png>
 Package pdftex.def Info: images/interfaces/buyer/buyer analytics.png  used on i
 nput line 63.
 (pdftex.def)             Requested size: 211.68663pt x 114.83066pt.
-<images/interfaces/buyer/buyer reviews history.png, id=673, 1289.56781pt x 467.
+<images/interfaces/buyer/buyer reviews history.png, id=678, 1289.56781pt x 467.
 49657pt>
 File: images/interfaces/buyer/buyer reviews history.png Graphic file (type png)
 
@@ -1689,24 +1731,24 @@ File: images/interfaces/buyer/buyer reviews history.png Graphic file (type png)
 Package pdftex.def Info: images/interfaces/buyer/buyer reviews history.png  use
 d on input line 74.
 (pdftex.def)             Requested size: 198.45663pt x 71.94048pt.
-<images/mobile/buyer/market.png, id=674, 587.19376pt x 1270.7475pt>
+<images/mobile/buyer/market.png, id=679, 587.19376pt x 1270.7475pt>
 File: images/mobile/buyer/market.png Graphic file (type png)
 <use images/mobile/buyer/market.png>
 Package pdftex.def Info: images/mobile/buyer/market.png  used on input line 80.
 
 (pdftex.def)             Requested size: 74.9722pt x 162.2363pt.
-<images/mobile/buyer/orders.png, id=675, 587.19376pt x 1270.7475pt>
+<images/mobile/buyer/orders.png, id=680, 587.19376pt x 1270.7475pt>
 File: images/mobile/buyer/orders.png Graphic file (type png)
 <use images/mobile/buyer/orders.png>
 Package pdftex.def Info: images/mobile/buyer/orders.png  used on input line 86.
 
 (pdftex.def)             Requested size: 74.9722pt x 162.2363pt.
-<images/mobile/buyer/cart.png, id=676, 587.19376pt x 1270.7475pt>
+<images/mobile/buyer/cart.png, id=681, 587.19376pt x 1270.7475pt>
 File: images/mobile/buyer/cart.png Graphic file (type png)
 <use images/mobile/buyer/cart.png>
 Package pdftex.def Info: images/mobile/buyer/cart.png  used on input line 92.
 (pdftex.def)             Requested size: 74.9722pt x 162.2363pt.
-<images/interfaces/transporter/transporter dashboard.png, id=677, 1376.89406pt 
+<images/interfaces/transporter/transporter dashboard.png, id=682, 1376.89406pt 
 x 709.14937pt>
 File: images/interfaces/transporter/transporter dashboard.png Graphic file (typ
 e png)
@@ -1714,7 +1756,7 @@ e png)
 Package pdftex.def Info: images/interfaces/transporter/transporter dashboard.pn
 g  used on input line 105.
 (pdftex.def)             Requested size: 211.68663pt x 109.01889pt.
-<images/interfaces/transporter/transporter missions.png, id=678, 1376.14125pt x
+<images/interfaces/transporter/transporter missions.png, id=683, 1376.14125pt x
  702.37407pt>
 File: images/interfaces/transporter/transporter missions.png Graphic file (type
  png)
@@ -1728,7 +1770,7 @@ stics.png> <./images/interfaces/buyer/buyer dashboard overview.png> <./images/i
 nterfaces/buyer/buyer analytics.png> <./images/interfaces/buyer/buyer reviews h
 istory.png> <./images/mobile/buyer/market.png> <./images/mobile/buyer/orders.pn
 g> <./images/mobile/buyer/cart.png>]
-<images/interfaces/transporter/transporter profile.png, id=690, 1373.13pt x 705
+<images/interfaces/transporter/transporter profile.png, id=695, 1373.13pt x 705
 .38531pt>
 File: images/interfaces/transporter/transporter profile.png Graphic file (type 
 png)
@@ -1736,25 +1778,25 @@ png)
 Package pdftex.def Info: images/interfaces/transporter/transporter profile.png 
  used on input line 122.
 (pdftex.def)             Requested size: 198.45663pt x 101.9392pt.
-<images/mobile/transporter/history.png, id=691, 587.19376pt x 1270.7475pt>
+<images/mobile/transporter/history.png, id=696, 587.19376pt x 1270.7475pt>
 File: images/mobile/transporter/history.png Graphic file (type png)
 <use images/mobile/transporter/history.png>
 Package pdftex.def Info: images/mobile/transporter/history.png  used on input l
 ine 128.
 (pdftex.def)             Requested size: 74.9722pt x 162.2363pt.
-<images/mobile/transporter/mission.png, id=692, 587.19376pt x 1270.7475pt>
+<images/mobile/transporter/mission.png, id=697, 587.19376pt x 1270.7475pt>
 File: images/mobile/transporter/mission.png Graphic file (type png)
 <use images/mobile/transporter/mission.png>
 Package pdftex.def Info: images/mobile/transporter/mission.png  used on input l
 ine 134.
 (pdftex.def)             Requested size: 74.9722pt x 162.2363pt.
-<images/mobile/transporter/missions.png, id=693, 587.19376pt x 1270.7475pt>
+<images/mobile/transporter/missions.png, id=698, 587.19376pt x 1270.7475pt>
 File: images/mobile/transporter/missions.png Graphic file (type png)
 <use images/mobile/transporter/missions.png>
 Package pdftex.def Info: images/mobile/transporter/missions.png  used on input 
 line 140.
 (pdftex.def)             Requested size: 74.9722pt x 162.2363pt.
-<images/interfaces/ministry/ministrt user details.png, id=694, 1379.1525pt x 70
+<images/interfaces/ministry/ministrt user details.png, id=699, 1379.1525pt x 70
 3.87968pt>
 File: images/interfaces/ministry/ministrt user details.png Graphic file (type p
 ng)
@@ -1762,7 +1804,7 @@ ng)
 Package pdftex.def Info: images/interfaces/ministry/ministrt user details.png  
 used on input line 153.
 (pdftex.def)             Requested size: 211.68663pt x 108.03693pt.
-<images/interfaces/ministry/ministry analytics.png, id=695, 1382.91656pt x 711.
+<images/interfaces/ministry/ministry analytics.png, id=700, 1382.91656pt x 711.
 4078pt>
 File: images/interfaces/ministry/ministry analytics.png Graphic file (type png)
 
@@ -1770,7 +1812,7 @@ File: images/interfaces/ministry/ministry analytics.png Graphic file (type png)
 Package pdftex.def Info: images/interfaces/ministry/ministry analytics.png  use
 d on input line 159.
 (pdftex.def)             Requested size: 211.68663pt x 108.88846pt.
-<images/interfaces/ministry/ministry official prices.png, id=696, 1379.1525pt x
+<images/interfaces/ministry/ministry official prices.png, id=701, 1379.1525pt x
  705.38531pt>
 File: images/interfaces/ministry/ministry official prices.png Graphic file (typ
 e png)
@@ -1778,7 +1820,7 @@ e png)
 Package pdftex.def Info: images/interfaces/ministry/ministry official prices.pn
 g  used on input line 168.
 (pdftex.def)             Requested size: 211.68663pt x 108.26802pt.
-<images/interfaces/ministry/ministry regianal data.png, id=697, 1385.92781pt x 
+<images/interfaces/ministry/ministry regianal data.png, id=702, 1385.92781pt x 
 701.62125pt>
 File: images/interfaces/ministry/ministry regianal data.png Graphic file (type 
 png)
@@ -1793,7 +1835,7 @@ s/interfaces/transporter/transporter profile.png> <./images/mobile/transporter/
 history.png> <./images/mobile/transporter/mission.png> <./images/mobile/transpo
 rter/missions.png> <./images/interfaces/ministry/ministrt user details.png> <./
 images/interfaces/ministry/ministry analytics.png>]
-<images/diagrammes/deploiement.png, id=712, 732.7375pt x 897.3525pt>
+<images/diagrammes/deploiement.png, id=717, 732.7375pt x 897.3525pt>
 File: images/diagrammes/deploiement.png Graphic file (type png)
 <use images/diagrammes/deploiement.png>
 Package pdftex.def Info: images/diagrammes/deploiement.png  used on input line 
@@ -1803,19 +1845,19 @@ Package pdftex.def Info: images/diagrammes/deploiement.png  used on input line
 (sections2/technologies.tex [47 <./images/interfaces/ministry/ministry official
  prices.png> <./images/interfaces/ministry/ministry regianal data.png>]
 [48 <./images/diagrammes/deploiement.png>]
-<images/structure/mobileStructure.png, id=726, 187.902pt x 402.303pt>
+<images/structure/mobileStructure.png, id=731, 187.902pt x 402.303pt>
 File: images/structure/mobileStructure.png Graphic file (type png)
 <use images/structure/mobileStructure.png>
 Package pdftex.def Info: images/structure/mobileStructure.png  used on input li
 ne 41.
 (pdftex.def)             Requested size: 132.30666pt x 283.28601pt.
-<images/structure/webStructure.png, id=727, 256.70906pt x 498.36188pt>
+<images/structure/webStructure.png, id=732, 256.70906pt x 498.36188pt>
 File: images/structure/webStructure.png Graphic file (type png)
 <use images/structure/webStructure.png>
 Package pdftex.def Info: images/structure/webStructure.png  used on input line 
 47.
 (pdftex.def)             Requested size: 132.30666pt x 256.85313pt.
-<images/structure/backendStructure.png, id=728, 229.45724pt x 378.213pt>
+<images/structure/backendStructure.png, id=733, 229.45724pt x 378.213pt>
 File: images/structure/backendStructure.png Graphic file (type png)
 <use images/structure/backendStructure.png>
 Package pdftex.def Info: images/structure/backendStructure.png  used on input l
@@ -1852,9 +1894,17 @@ Overfull \hbox (70.66643pt too wide) in paragraph at lines 90--91
 /BenhamadaKhalil/Agrigov-mobile.git 
  []
 
-) (sections2/conclusion.tex)) (GlobalConclusion.tex [51]) [52
 
-] [53
+
+
+<QR code requested for "https://github.com/BenhamadaKhalil/agrigov-bachelor-the
+sis/tree/main/images/QR" in version 0-M.>
+
+<Copying the QR code for "https://github.com/BenhamadaKhalil/agrigov-bachelor-t
+hesis/tree/main/images/QR" in version 5-M as previously calculated.>
+) (sections2/conclusion.tex)) (GlobalConclusion.tex [51] [52]) [53
+
+] [54
 
 ]
 Overfull \hbox (3.1916pt too wide) in paragraph at lines 34--34
@@ -1868,11 +1918,14 @@ Overfull \hbox (1.6486pt too wide) in paragraph at lines 34--34
 ur-nal of Pro-duc-tion Eco-nomics\T1/lmr/m/n/12 , vol. 268,
  []
 
-[54]
-runsystem(latexminted cleantemp  --timestamp 20260424004055 A02C83A7DBD96295BEA
+[55]
+runsystem(latexminted cleantemp  --timestamp 20260424010223 A02C83A7DBD96295BEA
 EFB72C2BEE2DE)...disabled (restricted).
 
- (Main.aux)
+ (Main.aux
+<Reading QR code for "https://github.com/BenhamadaKhalil/agrigov-bachelor-thesi
+s/tree/main/images/QR" at level 5-M from aux file.>
+)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -1881,35 +1934,29 @@ L3 programming layer <2026-01-19>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `Main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Main.out':
-(rerunfilecheck)             Before: F2B1D22A9B0ACA8776B3DFB6A0CCC67D;8854
-(rerunfilecheck)             After:  8669B75C04DF48E9DFD55AE0DF27F32D;9014.
+Package rerunfilecheck Info: File `Main.out' has not changed.
+(rerunfilecheck)             Checksum: 8669B75C04DF48E9DFD55AE0DF27F32D;9014.
 Package logreq Info: Writing requests to 'Main.run.xml'.
 \openout1 = `Main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27650 strings out of 467866
- 550892 string characters out of 5428396
- 1472384 words of memory out of 5000000
- 55938 multiletter control sequences out of 15000+600000
+ 29333 strings out of 467866
+ 574636 string characters out of 5428396
+ 1554786 words of memory out of 5000000
+ 57606 multiletter control sequences out of 15000+600000
  693826 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,11n,84p,890b,2344s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,11n,84p,1605b,2344s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/M
 iKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/pu
 blic/lm/lmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX/f
 onts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/
 lmtt12.pfb>
-Output written on Main.pdf (55 pages, 13288040 bytes).
+Output written on Main.pdf (56 pages, 13292915 bytes).
 PDF statistics:
- 857 PDF objects out of 1000 (max. 8388607)
- 200 named destinations out of 1000 (max. 500000)
- 787 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 866 PDF objects out of 1000 (max. 8388607)
+ 201 named destinations out of 1000 (max. 500000)
+ 795 words of extra memory for PDF output out of 10000 (max. 10000000)
 
