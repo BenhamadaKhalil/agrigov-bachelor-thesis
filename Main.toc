@@ -43,16 +43,21 @@
 \contentsline {section}{\numberline {2.4}Database Design}{42}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Object-Relational Mapping Rules}{42}{subsection.2.4.1}%
 \contentsline {subsection}{\numberline {2.4.2}Relational Schema}{42}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}Farmer Interfaces}{44}{subsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.4.4}Buyer Interfaces}{45}{subsection.2.4.4}%
-\contentsline {subsection}{\numberline {2.4.5}Transporter Interfaces}{45}{subsection.2.4.5}%
-\contentsline {subsection}{\numberline {2.4.6}Ministry Interfaces}{46}{subsection.2.4.6}%
-\contentsline {section}{\numberline {2.5}Deployment Diagram}{47}{section.2.5}%
-\contentsline {section}{\numberline {2.6}Technologies Used and Source Code Access}{48}{section.2.6}%
-\contentsline {subsection}{\numberline {2.6.1} Technologies Used}{48}{subsection.2.6.1}%
-\contentsline {subsection}{\numberline {2.6.2} Source Code Description}{49}{subsection.2.6.2}%
-\contentsline {paragraph}{Project Structure}{49}{paragraph*.51}%
-\contentsline {paragraph}{Main Components}{50}{paragraph*.53}%
-\contentsline {paragraph}{Logical Organization (MVT Architecture)}{50}{paragraph*.54}%
-\contentsline {subsection}{\numberline {2.6.3} Access to the Project Repository}{51}{subsection.2.6.3}%
-\contentsline {section}{\numberline {2.7}Conclusion}{51}{section.2.7}%
+\contentsline {section}{\numberline {2.5}User Interfaces}{44}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Farmer Interfaces}{44}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Buyer Interfaces}{45}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Transporter Interfaces}{46}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Ministry Interfaces}{46}{subsection.2.5.4}%
+\contentsline {section}{\numberline {2.6}Deployment Diagram}{47}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Technologies Used, Source Code, and Development Tools}{49}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}Technologies Used}{49}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}AI Tools Used in Development}{50}{subsection.2.7.2}%
+\contentsline {subsubsection}{ChatGPT (OpenAI)}{50}{subsubsection*.51}%
+\contentsline {subsubsection}{Claude (Anthropic)}{51}{subsubsection*.52}%
+\contentsline {subsubsection}{Ethical and Academic Considerations}{51}{subsubsection*.53}%
+\contentsline {subsection}{\numberline {2.7.3}Source Code Description}{51}{subsection.2.7.3}%
+\contentsline {paragraph}{Project Structure}{51}{paragraph*.54}%
+\contentsline {paragraph}{Main Components}{52}{paragraph*.56}%
+\contentsline {paragraph}{Logical Organisation: MVT Architecture}{52}{paragraph*.57}%
+\contentsline {subsection}{\numberline {2.7.4}Access to the Project Repository}{53}{subsection.2.7.4}%
+\contentsline {section}{\numberline {2.8}Conclusion}{53}{section.2.8}%

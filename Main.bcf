@@ -2391,10 +2391,28 @@
     <bcf:citekey order="13" intorder="2">fowler2002patterns</bcf:citekey>
     <bcf:citekey order="14" intorder="1">booch2005uml</bcf:citekey>
     <bcf:citekey order="14" intorder="2">owler2010uml</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">Kaur2023</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">Belhadi2024</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">Chetibietal2026</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">Belhadi2024</bcf:citekey>
+    <bcf:citekey order="14" intorder="3">UML251OMG2017</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">UML251OMG2017</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">VanRossumDrake2009</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">MicrosoftTypeScript2024</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">DjangoProject2024</bcf:citekey>
+    <bcf:citekey order="18" intorder="2">Christie2024DRF</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">Vercel2024Nextjs</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">PostgreSQLGroup2024</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">NeonTech2024</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">Cloudinary2024</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">TailwindLabs2024</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">Microsoft2024VSCode</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">Chacon2014ProGit</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">OpenAI2024ChatGPT</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">Anthropic2024Claude</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">Perkins2023AIAcademic</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">DjangoProject2024</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">Kaur2023</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">Belhadi2024</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">Chetibietal2026</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">Belhadi2024</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">Seltetal2026</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

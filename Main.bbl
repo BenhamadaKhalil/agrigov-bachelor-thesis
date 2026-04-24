@@ -509,6 +509,362 @@
       \field{title}{Patterns of Enterprise Application Architecture}
       \field{year}{2002}
     \endentry
+    \entry{VanRossumDrake2009}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=e504145eff12cd8803c227c919ccfacd}{%
+           family={Van\bibnamedelima Rossum},
+           familyi={V\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0b735fb6ad359aa95b3bac4d5567af6f}{%
+           family={Drake},
+           familyi={D\bibinitperiod},
+           given={Fred\bibnamedelima L.},
+           giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Scotts Valley, CA}%
+      }
+      \list{publisher}{1}{%
+        {CreateSpace}%
+      }
+      \strng{namehash}{190e2e6e0d73bf5671d8927d221674e7}
+      \strng{fullhash}{190e2e6e0d73bf5671d8927d221674e7}
+      \strng{fullhashraw}{190e2e6e0d73bf5671d8927d221674e7}
+      \strng{bibnamehash}{190e2e6e0d73bf5671d8927d221674e7}
+      \strng{authorbibnamehash}{190e2e6e0d73bf5671d8927d221674e7}
+      \strng{authornamehash}{190e2e6e0d73bf5671d8927d221674e7}
+      \strng{authorfullhash}{190e2e6e0d73bf5671d8927d221674e7}
+      \strng{authorfullhashraw}{190e2e6e0d73bf5671d8927d221674e7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{1441412697}
+      \field{title}{Python 3 Reference Manual}
+      \field{year}{2009}
+    \endentry
+    \entry{MicrosoftTypeScript2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={{Microsoft}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhashraw}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhashraw}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.typescriptlang.org/}}
+      \field{note}{Accessed: 2025}
+      \field{title}{TypeScript: JavaScript With Syntax For Types}
+      \field{year}{2024}
+    \endentry
+    \entry{DjangoProject2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=f831bff1f5132f6edd2ec0e00e5b9af9}{%
+           family={{Django Software Foundation}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{f831bff1f5132f6edd2ec0e00e5b9af9}
+      \strng{fullhash}{f831bff1f5132f6edd2ec0e00e5b9af9}
+      \strng{fullhashraw}{f831bff1f5132f6edd2ec0e00e5b9af9}
+      \strng{bibnamehash}{f831bff1f5132f6edd2ec0e00e5b9af9}
+      \strng{authorbibnamehash}{f831bff1f5132f6edd2ec0e00e5b9af9}
+      \strng{authornamehash}{f831bff1f5132f6edd2ec0e00e5b9af9}
+      \strng{authorfullhash}{f831bff1f5132f6edd2ec0e00e5b9af9}
+      \strng{authorfullhashraw}{f831bff1f5132f6edd2ec0e00e5b9af9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.djangoproject.com/}}
+      \field{note}{Accessed: 2025}
+      \field{title}{Django: The Web Framework for Perfectionists with Deadlines}
+      \field{year}{2024}
+    \endentry
+    \entry{Christie2024DRF}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=e73069a89f32799b054c4852f92acd55}{%
+           family={Christie},
+           familyi={C\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{e73069a89f32799b054c4852f92acd55}
+      \strng{fullhash}{e73069a89f32799b054c4852f92acd55}
+      \strng{fullhashraw}{e73069a89f32799b054c4852f92acd55}
+      \strng{bibnamehash}{e73069a89f32799b054c4852f92acd55}
+      \strng{authorbibnamehash}{e73069a89f32799b054c4852f92acd55}
+      \strng{authornamehash}{e73069a89f32799b054c4852f92acd55}
+      \strng{authorfullhash}{e73069a89f32799b054c4852f92acd55}
+      \strng{authorfullhashraw}{e73069a89f32799b054c4852f92acd55}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.django-rest-framework.org/}}
+      \field{note}{Accessed: 2025}
+      \field{title}{Django REST Framework}
+      \field{year}{2024}
+    \endentry
+    \entry{Vercel2024Nextjs}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=dc173d57136dbe619cbccee88ee6421c}{%
+           family={{Vercel}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{fullhash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{fullhashraw}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{bibnamehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authorbibnamehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authornamehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authorfullhash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authorfullhashraw}{dc173d57136dbe619cbccee88ee6421c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://nextjs.org/}}
+      \field{note}{Accessed: 2025}
+      \field{title}{Next.js: The React Framework for the Web}
+      \field{year}{2024}
+    \endentry
+    \entry{PostgreSQLGroup2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=917cf2b2062aec0c604dbecc106084cd}{%
+           family={{The PostgreSQL Global Development Group}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{917cf2b2062aec0c604dbecc106084cd}
+      \strng{fullhash}{917cf2b2062aec0c604dbecc106084cd}
+      \strng{fullhashraw}{917cf2b2062aec0c604dbecc106084cd}
+      \strng{bibnamehash}{917cf2b2062aec0c604dbecc106084cd}
+      \strng{authorbibnamehash}{917cf2b2062aec0c604dbecc106084cd}
+      \strng{authornamehash}{917cf2b2062aec0c604dbecc106084cd}
+      \strng{authorfullhash}{917cf2b2062aec0c604dbecc106084cd}
+      \strng{authorfullhashraw}{917cf2b2062aec0c604dbecc106084cd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.postgresql.org/}}
+      \field{note}{Accessed: 2025}
+      \field{title}{PostgreSQL: The World's Most Advanced Open Source Relational Database}
+      \field{year}{2024}
+    \endentry
+    \entry{NeonTech2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=7a5ea03d401ee10e7b9dfe5648d07816}{%
+           family={{Neon}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a5ea03d401ee10e7b9dfe5648d07816}
+      \strng{fullhash}{7a5ea03d401ee10e7b9dfe5648d07816}
+      \strng{fullhashraw}{7a5ea03d401ee10e7b9dfe5648d07816}
+      \strng{bibnamehash}{7a5ea03d401ee10e7b9dfe5648d07816}
+      \strng{authorbibnamehash}{7a5ea03d401ee10e7b9dfe5648d07816}
+      \strng{authornamehash}{7a5ea03d401ee10e7b9dfe5648d07816}
+      \strng{authorfullhash}{7a5ea03d401ee10e7b9dfe5648d07816}
+      \strng{authorfullhashraw}{7a5ea03d401ee10e7b9dfe5648d07816}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://neon.tech/}}
+      \field{note}{Accessed: 2025}
+      \field{title}{Neon: Serverless Postgres}
+      \field{year}{2024}
+    \endentry
+    \entry{Cloudinary2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=2420d93729403f55a9cf8f6d70dbad81}{%
+           family={{Cloudinary}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{2420d93729403f55a9cf8f6d70dbad81}
+      \strng{fullhash}{2420d93729403f55a9cf8f6d70dbad81}
+      \strng{fullhashraw}{2420d93729403f55a9cf8f6d70dbad81}
+      \strng{bibnamehash}{2420d93729403f55a9cf8f6d70dbad81}
+      \strng{authorbibnamehash}{2420d93729403f55a9cf8f6d70dbad81}
+      \strng{authornamehash}{2420d93729403f55a9cf8f6d70dbad81}
+      \strng{authorfullhash}{2420d93729403f55a9cf8f6d70dbad81}
+      \strng{authorfullhashraw}{2420d93729403f55a9cf8f6d70dbad81}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://cloudinary.com/}}
+      \field{note}{Accessed: 2025}
+      \field{title}{Cloudinary: Image and Video API Platform}
+      \field{year}{2024}
+    \endentry
+    \entry{TailwindLabs2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=115eb058b42d5a622d39c9383748c476}{%
+           family={{Tailwind Labs}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{115eb058b42d5a622d39c9383748c476}
+      \strng{fullhash}{115eb058b42d5a622d39c9383748c476}
+      \strng{fullhashraw}{115eb058b42d5a622d39c9383748c476}
+      \strng{bibnamehash}{115eb058b42d5a622d39c9383748c476}
+      \strng{authorbibnamehash}{115eb058b42d5a622d39c9383748c476}
+      \strng{authornamehash}{115eb058b42d5a622d39c9383748c476}
+      \strng{authorfullhash}{115eb058b42d5a622d39c9383748c476}
+      \strng{authorfullhashraw}{115eb058b42d5a622d39c9383748c476}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://tailwindcss.com/}}
+      \field{note}{Accessed: 2025}
+      \field{title}{Tailwind CSS: A Utility-First CSS Framework}
+      \field{year}{2024}
+    \endentry
+    \entry{Microsoft2024VSCode}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={{Microsoft}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhashraw}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhashraw}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://code.visualstudio.com/}}
+      \field{note}{Accessed: 2025}
+      \field{title}{Visual Studio Code}
+      \field{year}{2024}
+    \endentry
+    \entry{Chacon2014ProGit}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=8f4ee0c97dee95179ce1e79e846dd298}{%
+           family={Chacon},
+           familyi={C\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=50418136ff59fed99760e32ba5613c51}{%
+           family={Straub},
+           familyi={S\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Apress}%
+      }
+      \strng{namehash}{1764b95256df68c84d8a593fc2dfa143}
+      \strng{fullhash}{1764b95256df68c84d8a593fc2dfa143}
+      \strng{fullhashraw}{1764b95256df68c84d8a593fc2dfa143}
+      \strng{bibnamehash}{1764b95256df68c84d8a593fc2dfa143}
+      \strng{authorbibnamehash}{1764b95256df68c84d8a593fc2dfa143}
+      \strng{authornamehash}{1764b95256df68c84d8a593fc2dfa143}
+      \strng{authorfullhash}{1764b95256df68c84d8a593fc2dfa143}
+      \strng{authorfullhashraw}{1764b95256df68c84d8a593fc2dfa143}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{Pro Git}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1007/978-1-4842-0076-6
+      \endverb
+    \endentry
+    \entry{OpenAI2024ChatGPT}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=0523b13262b12c215d8009938f5c14f1}{%
+           family={{OpenAI}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{fullhash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{fullhashraw}{0523b13262b12c215d8009938f5c14f1}
+      \strng{bibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorbibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authornamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorfullhash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorfullhashraw}{0523b13262b12c215d8009938f5c14f1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://openai.com/chatgpt}}
+      \field{note}{Accessed: 2025}
+      \field{title}{{ChatGPT}: Optimizing Language Models for Dialogue}
+      \field{year}{2024}
+    \endentry
+    \entry{Anthropic2024Claude}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=f431db65cea024a5f19eab835afefee2}{%
+           family={{Anthropic}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f431db65cea024a5f19eab835afefee2}
+      \strng{fullhash}{f431db65cea024a5f19eab835afefee2}
+      \strng{fullhashraw}{f431db65cea024a5f19eab835afefee2}
+      \strng{bibnamehash}{f431db65cea024a5f19eab835afefee2}
+      \strng{authorbibnamehash}{f431db65cea024a5f19eab835afefee2}
+      \strng{authornamehash}{f431db65cea024a5f19eab835afefee2}
+      \strng{authorfullhash}{f431db65cea024a5f19eab835afefee2}
+      \strng{authorfullhashraw}{f431db65cea024a5f19eab835afefee2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.anthropic.com/claude}}
+      \field{note}{Accessed: 2025}
+      \field{title}{Claude: AI Assistant by Anthropic}
+      \field{year}{2024}
+    \endentry
+    \entry{Perkins2023AIAcademic}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=b736e7cb746c62a44f28d20e537c659b}{%
+           family={Perkins},
+           familyi={P\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b736e7cb746c62a44f28d20e537c659b}
+      \strng{fullhash}{b736e7cb746c62a44f28d20e537c659b}
+      \strng{fullhashraw}{b736e7cb746c62a44f28d20e537c659b}
+      \strng{bibnamehash}{b736e7cb746c62a44f28d20e537c659b}
+      \strng{authorbibnamehash}{b736e7cb746c62a44f28d20e537c659b}
+      \strng{authornamehash}{b736e7cb746c62a44f28d20e537c659b}
+      \strng{authorfullhash}{b736e7cb746c62a44f28d20e537c659b}
+      \strng{authorfullhashraw}{b736e7cb746c62a44f28d20e537c659b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of University Teaching and Learning Practice}
+      \field{number}{2}
+      \field{title}{Academic Integrity Considerations of AI Large Language Models in the Post-Pandemic Era}
+      \field{volume}{20}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.53761/1.20.02.07
+      \endverb
+    \endentry
     \entry{Kaur2023}{article}{}{}
       \name{author}{2}{}{%
         {{hash=a4224cad5558b35c721df86bcbce4027}{%
@@ -530,8 +886,8 @@
       \strng{authornamehash}{e432a4e4b66bbf3417ddd3cd4e3544c0}
       \strng{authorfullhash}{e432a4e4b66bbf3417ddd3cd4e3544c0}
       \strng{authorfullhashraw}{e432a4e4b66bbf3417ddd3cd4e3544c0}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Software Engineering Research and Development}
@@ -559,8 +915,8 @@
       \strng{authornamehash}{8dbbf2900321b609502f5d16edae1af3}
       \strng{authorfullhash}{8dbbf2900321b609502f5d16edae1af3}
       \strng{authorfullhashraw}{8dbbf2900321b609502f5d16edae1af3}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Production Economics}
@@ -572,6 +928,7 @@
       \endverb
     \endentry
   \enddatalist
+  \missing{UML251OMG2017}
 \endrefsection
 \endinput
 
