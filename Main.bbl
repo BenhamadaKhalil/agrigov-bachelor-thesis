@@ -509,6 +509,37 @@
       \field{title}{Patterns of Enterprise Application Architecture}
       \field{year}{2002}
     \endentry
+    \entry{UML251OMG2017}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=4d6b6fbad838f7618c462458711482fa}{%
+           family={{Object Management Group}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Object Management Group}%
+      }
+      \strng{namehash}{4d6b6fbad838f7618c462458711482fa}
+      \strng{fullhash}{4d6b6fbad838f7618c462458711482fa}
+      \strng{fullhashraw}{4d6b6fbad838f7618c462458711482fa}
+      \strng{bibnamehash}{4d6b6fbad838f7618c462458711482fa}
+      \strng{authorbibnamehash}{4d6b6fbad838f7618c462458711482fa}
+      \strng{authornamehash}{4d6b6fbad838f7618c462458711482fa}
+      \strng{authorfullhash}{4d6b6fbad838f7618c462458711482fa}
+      \strng{authorfullhashraw}{4d6b6fbad838f7618c462458711482fa}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2026-04-24. Referenced page 653}
+      \field{title}{{OMG Unified Modeling Language (OMG UML), Version 2.5.1}}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.omg.org/spec/UML/2.5.1
+      \endverb
+      \verb{url}
+      \verb https://www.omg.org/spec/UML/2.5.1
+      \endverb
+    \endentry
     \entry{VanRossumDrake2009}{book}{}{}
       \name{author}{2}{}{%
         {{hash=e504145eff12cd8803c227c919ccfacd}{%
@@ -639,6 +670,141 @@
       \field{title}{Next.js: The React Framework for the Web}
       \field{year}{2024}
     \endentry
+    \entry{RFC7519}{report}{}{}
+      \name{author}{3}{}{%
+        {{hash=bfa19f15a98d15831cd377b8813e6672}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Michael\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=81e40ae87af997090fa9a9696e364c65}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=34e6848475fd66697bfcb80787f2aef0}{%
+           family={Sakimura},
+           familyi={S\bibinitperiod},
+           given={Nat},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Internet Engineering Task Force}%
+      }
+      \strng{namehash}{3342ab8537945087b62619afff498d22}
+      \strng{fullhash}{8456e57585316c5ad570515143f00129}
+      \strng{fullhashraw}{8456e57585316c5ad570515143f00129}
+      \strng{bibnamehash}{8456e57585316c5ad570515143f00129}
+      \strng{authorbibnamehash}{8456e57585316c5ad570515143f00129}
+      \strng{authornamehash}{3342ab8537945087b62619afff498d22}
+      \strng{authorfullhash}{8456e57585316c5ad570515143f00129}
+      \strng{authorfullhashraw}{8456e57585316c5ad570515143f00129}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{7519}
+      \field{title}{{JSON Web Token (JWT)}}
+      \field{type}{RFC}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://www.rfc-editor.org/rfc/rfc7519
+      \endverb
+      \verb{url}
+      \verb https://www.rfc-editor.org/rfc/rfc7519
+      \endverb
+    \endentry
+    \entry{SimpleJWT2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=a3200b52be8c00bda32e9b1d6123fa45}{%
+           family={{Jazzband}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a3200b52be8c00bda32e9b1d6123fa45}
+      \strng{fullhash}{a3200b52be8c00bda32e9b1d6123fa45}
+      \strng{fullhashraw}{a3200b52be8c00bda32e9b1d6123fa45}
+      \strng{bibnamehash}{a3200b52be8c00bda32e9b1d6123fa45}
+      \strng{authorbibnamehash}{a3200b52be8c00bda32e9b1d6123fa45}
+      \strng{authornamehash}{a3200b52be8c00bda32e9b1d6123fa45}
+      \strng{authorfullhash}{a3200b52be8c00bda32e9b1d6123fa45}
+      \strng{authorfullhashraw}{a3200b52be8c00bda32e9b1d6123fa45}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024}
+      \field{title}{{Simple JWT: A JSON Web Token Authentication Plugin for Django REST Framework}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://django-rest-framework-simplejwt.readthedocs.io
+      \endverb
+      \verb{url}
+      \verb https://django-rest-framework-simplejwt.readthedocs.io
+      \endverb
+    \endentry
+    \entry{OttoKristensen2024CORS}{misc}{}{}
+      \name{author}{2}{}{%
+        {{hash=6102a8af718de9a6c75445fd74e5999f}{%
+           family={Otto},
+           familyi={O\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e3db7975f36ce2c1706ebc10a8373eda}{%
+           family={Kristensen},
+           familyi={K\bibinitperiod},
+           given={Rasmus\bibnamedelima Bisgaard},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a9905eecf0cdbe815cf8c1aed505d4a}
+      \strng{fullhash}{7a9905eecf0cdbe815cf8c1aed505d4a}
+      \strng{fullhashraw}{7a9905eecf0cdbe815cf8c1aed505d4a}
+      \strng{bibnamehash}{7a9905eecf0cdbe815cf8c1aed505d4a}
+      \strng{authorbibnamehash}{7a9905eecf0cdbe815cf8c1aed505d4a}
+      \strng{authornamehash}{7a9905eecf0cdbe815cf8c1aed505d4a}
+      \strng{authorfullhash}{7a9905eecf0cdbe815cf8c1aed505d4a}
+      \strng{authorfullhashraw}{7a9905eecf0cdbe815cf8c1aed505d4a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024}
+      \field{title}{{django-cors-headers}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://github.com/adamchainz/django-cors-headers
+      \endverb
+      \verb{url}
+      \verb https://github.com/adamchainz/django-cors-headers
+      \endverb
+    \endentry
+    \entry{DjangoFilter2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=1421049a94da4cf58fed3876c0d0ee3f}{%
+           family={{Carltongibson and Contributors}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{1421049a94da4cf58fed3876c0d0ee3f}
+      \strng{fullhash}{1421049a94da4cf58fed3876c0d0ee3f}
+      \strng{fullhashraw}{1421049a94da4cf58fed3876c0d0ee3f}
+      \strng{bibnamehash}{1421049a94da4cf58fed3876c0d0ee3f}
+      \strng{authorbibnamehash}{1421049a94da4cf58fed3876c0d0ee3f}
+      \strng{authornamehash}{1421049a94da4cf58fed3876c0d0ee3f}
+      \strng{authorfullhash}{1421049a94da4cf58fed3876c0d0ee3f}
+      \strng{authorfullhashraw}{1421049a94da4cf58fed3876c0d0ee3f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024}
+      \field{title}{{django-filter: A Generic System for Filtering Django QuerySets}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://django-filter.readthedocs.io
+      \endverb
+      \verb{url}
+      \verb https://django-filter.readthedocs.io
+      \endverb
+    \endentry
     \entry{PostgreSQLGroup2024}{misc}{}{}
       \name{author}{1}{}{%
         {{hash=917cf2b2062aec0c604dbecc106084cd}{%
@@ -731,6 +897,304 @@
       \field{title}{Tailwind CSS: A Utility-First CSS Framework}
       \field{year}{2024}
     \endentry
+    \entry{WhiteNoise2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=fdf60d29316eacfbd0fdc22e786afd78}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{fdf60d29316eacfbd0fdc22e786afd78}
+      \strng{fullhash}{fdf60d29316eacfbd0fdc22e786afd78}
+      \strng{fullhashraw}{fdf60d29316eacfbd0fdc22e786afd78}
+      \strng{bibnamehash}{fdf60d29316eacfbd0fdc22e786afd78}
+      \strng{authorbibnamehash}{fdf60d29316eacfbd0fdc22e786afd78}
+      \strng{authornamehash}{fdf60d29316eacfbd0fdc22e786afd78}
+      \strng{authorfullhash}{fdf60d29316eacfbd0fdc22e786afd78}
+      \strng{authorfullhashraw}{fdf60d29316eacfbd0fdc22e786afd78}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024}
+      \field{title}{{WhiteNoise: Radically Simplified Static File Serving for Python Web Apps}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://whitenoise.readthedocs.io
+      \endverb
+      \verb{url}
+      \verb https://whitenoise.readthedocs.io
+      \endverb
+    \endentry
+    \entry{Wiggins2012TwelveFactor}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=78c94d63299ff16130ed37a90dc97dcd}{%
+           family={Wiggins},
+           familyi={W\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{78c94d63299ff16130ed37a90dc97dcd}
+      \strng{fullhash}{78c94d63299ff16130ed37a90dc97dcd}
+      \strng{fullhashraw}{78c94d63299ff16130ed37a90dc97dcd}
+      \strng{bibnamehash}{78c94d63299ff16130ed37a90dc97dcd}
+      \strng{authorbibnamehash}{78c94d63299ff16130ed37a90dc97dcd}
+      \strng{authornamehash}{78c94d63299ff16130ed37a90dc97dcd}
+      \strng{authorfullhash}{78c94d63299ff16130ed37a90dc97dcd}
+      \strng{authorfullhashraw}{78c94d63299ff16130ed37a90dc97dcd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024}
+      \field{title}{{The Twelve-Factor App}}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://12factor.net
+      \endverb
+      \verb{url}
+      \verb https://12factor.net
+      \endverb
+    \endentry
+    \entry{PythonDotenv2024}{misc}{}{}
+      \name{author}{2}{}{%
+        {{hash=6be39bf7df0af2013d58102e4a0fa521}{%
+           family={Thériault},
+           familyi={T\bibinitperiod},
+           given={Saulius},
+           giveni={S\bibinitperiod}}}%
+        {{hash=96858cb143562346b7f065e32c403f30}{%
+           family={Contributors},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd64b2882acf05faefebf4acc23a1a35}
+      \strng{fullhash}{bd64b2882acf05faefebf4acc23a1a35}
+      \strng{fullhashraw}{bd64b2882acf05faefebf4acc23a1a35}
+      \strng{bibnamehash}{bd64b2882acf05faefebf4acc23a1a35}
+      \strng{authorbibnamehash}{bd64b2882acf05faefebf4acc23a1a35}
+      \strng{authornamehash}{bd64b2882acf05faefebf4acc23a1a35}
+      \strng{authorfullhash}{bd64b2882acf05faefebf4acc23a1a35}
+      \strng{authorfullhashraw}{bd64b2882acf05faefebf4acc23a1a35}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024}
+      \field{title}{{python-dotenv: Read Key-Value Pairs from a .env File}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://github.com/theskumar/python-dotenv
+      \endverb
+      \verb{url}
+      \verb https://github.com/theskumar/python-dotenv
+      \endverb
+    \endentry
+    \entry{Certifi2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=69ed66ec1d03db23759730812c43286d}{%
+           family={{Kenneth Reitz and Contributors}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{69ed66ec1d03db23759730812c43286d}
+      \strng{fullhash}{69ed66ec1d03db23759730812c43286d}
+      \strng{fullhashraw}{69ed66ec1d03db23759730812c43286d}
+      \strng{bibnamehash}{69ed66ec1d03db23759730812c43286d}
+      \strng{authorbibnamehash}{69ed66ec1d03db23759730812c43286d}
+      \strng{authornamehash}{69ed66ec1d03db23759730812c43286d}
+      \strng{authorfullhash}{69ed66ec1d03db23759730812c43286d}
+      \strng{authorfullhashraw}{69ed66ec1d03db23759730812c43286d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024}
+      \field{title}{{Certifi: Python SSL Certificates}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://github.com/certifi/python-certifi
+      \endverb
+      \verb{url}
+      \verb https://github.com/certifi/python-certifi
+      \endverb
+    \endentry
+    \entry{GroqInc2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=b805f8b2716aeeb218e9cf1b9ee76cc8}{%
+           family={{Groq, Inc.}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{b805f8b2716aeeb218e9cf1b9ee76cc8}
+      \strng{fullhash}{b805f8b2716aeeb218e9cf1b9ee76cc8}
+      \strng{fullhashraw}{b805f8b2716aeeb218e9cf1b9ee76cc8}
+      \strng{bibnamehash}{b805f8b2716aeeb218e9cf1b9ee76cc8}
+      \strng{authorbibnamehash}{b805f8b2716aeeb218e9cf1b9ee76cc8}
+      \strng{authornamehash}{b805f8b2716aeeb218e9cf1b9ee76cc8}
+      \strng{authorfullhash}{b805f8b2716aeeb218e9cf1b9ee76cc8}
+      \strng{authorfullhashraw}{b805f8b2716aeeb218e9cf1b9ee76cc8}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024}
+      \field{title}{{Groq API Documentation}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://console.groq.com/docs
+      \endverb
+      \verb{url}
+      \verb https://console.groq.com/docs
+      \endverb
+    \endentry
+    \entry{ChartJS2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=1bab604765053a38c1f50221d1f4d642}{%
+           family={{Chart.js Contributors}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{1bab604765053a38c1f50221d1f4d642}
+      \strng{fullhash}{1bab604765053a38c1f50221d1f4d642}
+      \strng{fullhashraw}{1bab604765053a38c1f50221d1f4d642}
+      \strng{bibnamehash}{1bab604765053a38c1f50221d1f4d642}
+      \strng{authorbibnamehash}{1bab604765053a38c1f50221d1f4d642}
+      \strng{authornamehash}{1bab604765053a38c1f50221d1f4d642}
+      \strng{authorfullhash}{1bab604765053a38c1f50221d1f4d642}
+      \strng{authorfullhashraw}{1bab604765053a38c1f50221d1f4d642}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024}
+      \field{title}{{Chart.js: Simple Yet Flexible JavaScript Charting}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.chartjs.org
+      \endverb
+      \verb{url}
+      \verb https://www.chartjs.org
+      \endverb
+    \endentry
+    \entry{ReactChartJS2024}{misc}{}{}
+      \name{author}{2}{}{%
+        {{hash=a4719029e4404162f8dd4ff513c04220}{%
+           family={Wattenberger},
+           familyi={W\bibinitperiod},
+           given={Amelia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=96858cb143562346b7f065e32c403f30}{%
+           family={Contributors},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{cdbd130710f15756bea08b9659d62c41}
+      \strng{fullhash}{cdbd130710f15756bea08b9659d62c41}
+      \strng{fullhashraw}{cdbd130710f15756bea08b9659d62c41}
+      \strng{bibnamehash}{cdbd130710f15756bea08b9659d62c41}
+      \strng{authorbibnamehash}{cdbd130710f15756bea08b9659d62c41}
+      \strng{authornamehash}{cdbd130710f15756bea08b9659d62c41}
+      \strng{authorfullhash}{cdbd130710f15756bea08b9659d62c41}
+      \strng{authorfullhashraw}{cdbd130710f15756bea08b9659d62c41}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024}
+      \field{title}{{react-chartjs-2: React Components for Chart.js}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://react-chartjs-2.js.org
+      \endverb
+      \verb{url}
+      \verb https://react-chartjs-2.js.org
+      \endverb
+    \endentry
+    \entry{AgafonkinLeaflet2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=5394be402511a06b16521a9b58b8acbf}{%
+           family={Agafonkin},
+           familyi={A\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{5394be402511a06b16521a9b58b8acbf}
+      \strng{fullhash}{5394be402511a06b16521a9b58b8acbf}
+      \strng{fullhashraw}{5394be402511a06b16521a9b58b8acbf}
+      \strng{bibnamehash}{5394be402511a06b16521a9b58b8acbf}
+      \strng{authorbibnamehash}{5394be402511a06b16521a9b58b8acbf}
+      \strng{authornamehash}{5394be402511a06b16521a9b58b8acbf}
+      \strng{authorfullhash}{5394be402511a06b16521a9b58b8acbf}
+      \strng{authorfullhashraw}{5394be402511a06b16521a9b58b8acbf}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024}
+      \field{title}{{Leaflet: An Open-Source JavaScript Library for Mobile-Friendly Interactive Maps}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://leafletjs.com
+      \endverb
+      \verb{url}
+      \verb https://leafletjs.com
+      \endverb
+    \endentry
+    \entry{ReactLeaflet2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=261288e9867b2a71d627f1881aa48d41}{%
+           family={Pelletier},
+           familyi={P\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{261288e9867b2a71d627f1881aa48d41}
+      \strng{fullhash}{261288e9867b2a71d627f1881aa48d41}
+      \strng{fullhashraw}{261288e9867b2a71d627f1881aa48d41}
+      \strng{bibnamehash}{261288e9867b2a71d627f1881aa48d41}
+      \strng{authorbibnamehash}{261288e9867b2a71d627f1881aa48d41}
+      \strng{authornamehash}{261288e9867b2a71d627f1881aa48d41}
+      \strng{authorfullhash}{261288e9867b2a71d627f1881aa48d41}
+      \strng{authorfullhashraw}{261288e9867b2a71d627f1881aa48d41}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024}
+      \field{title}{{React Leaflet: React Components for Leaflet Maps}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://react-leaflet.js.org
+      \endverb
+      \verb{url}
+      \verb https://react-leaflet.js.org
+      \endverb
+    \endentry
+    \entry{LucideReact2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=4fc7b82b36c003929e29669071215565}{%
+           family={{Lucide Contributors}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{4fc7b82b36c003929e29669071215565}
+      \strng{fullhash}{4fc7b82b36c003929e29669071215565}
+      \strng{fullhashraw}{4fc7b82b36c003929e29669071215565}
+      \strng{bibnamehash}{4fc7b82b36c003929e29669071215565}
+      \strng{authorbibnamehash}{4fc7b82b36c003929e29669071215565}
+      \strng{authornamehash}{4fc7b82b36c003929e29669071215565}
+      \strng{authorfullhash}{4fc7b82b36c003929e29669071215565}
+      \strng{authorfullhashraw}{4fc7b82b36c003929e29669071215565}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024}
+      \field{title}{{Lucide: Beautiful and Consistent Icons}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://lucide.dev
+      \endverb
+      \verb{url}
+      \verb https://lucide.dev
+      \endverb
+    \endentry
     \entry{Microsoft2024VSCode}{misc}{}{}
       \name{author}{1}{}{%
         {{hash=140864078aeca1c7c35b4beb33c53c34}{%
@@ -746,8 +1210,8 @@
       \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
       \strng{authorfullhashraw}{140864078aeca1c7c35b4beb33c53c34}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://code.visualstudio.com/}}
@@ -779,8 +1243,8 @@
       \strng{authornamehash}{1764b95256df68c84d8a593fc2dfa143}
       \strng{authorfullhash}{1764b95256df68c84d8a593fc2dfa143}
       \strng{authorfullhashraw}{1764b95256df68c84d8a593fc2dfa143}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{2nd}
@@ -804,8 +1268,8 @@
       \strng{authornamehash}{0523b13262b12c215d8009938f5c14f1}
       \strng{authorfullhash}{0523b13262b12c215d8009938f5c14f1}
       \strng{authorfullhashraw}{0523b13262b12c215d8009938f5c14f1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://openai.com/chatgpt}}
@@ -827,8 +1291,8 @@
       \strng{authornamehash}{f431db65cea024a5f19eab835afefee2}
       \strng{authorfullhash}{f431db65cea024a5f19eab835afefee2}
       \strng{authorfullhashraw}{f431db65cea024a5f19eab835afefee2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.anthropic.com/claude}}
@@ -852,8 +1316,8 @@
       \strng{authornamehash}{b736e7cb746c62a44f28d20e537c659b}
       \strng{authorfullhash}{b736e7cb746c62a44f28d20e537c659b}
       \strng{authorfullhashraw}{b736e7cb746c62a44f28d20e537c659b}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of University Teaching and Learning Practice}
@@ -886,8 +1350,8 @@
       \strng{authornamehash}{e432a4e4b66bbf3417ddd3cd4e3544c0}
       \strng{authorfullhash}{e432a4e4b66bbf3417ddd3cd4e3544c0}
       \strng{authorfullhashraw}{e432a4e4b66bbf3417ddd3cd4e3544c0}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Software Engineering Research and Development}
@@ -915,8 +1379,8 @@
       \strng{authornamehash}{8dbbf2900321b609502f5d16edae1af3}
       \strng{authorfullhash}{8dbbf2900321b609502f5d16edae1af3}
       \strng{authorfullhashraw}{8dbbf2900321b609502f5d16edae1af3}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Production Economics}
@@ -928,7 +1392,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{UML251OMG2017}
 \endrefsection
 \endinput
 

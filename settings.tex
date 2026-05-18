@@ -3,13 +3,16 @@
 % Page geometry
 \usepackage[a4paper,left=2cm,right=2.5cm,top=2.5cm,bottom=2.5cm,bindingoffset=1cm]{geometry}
 
-% Encoding & fonts
-\usepackage[T1]{fontenc}
-\usepackage[utf8]{inputenc} % if using lualatex/xelatex, you can remove this
-\usepackage{lmodern}
+% XeLaTeX packages
+\usepackage{fontspec}
+\usepackage{polyglossia}
 
-% Language
-\usepackage[english]{babel}
+% Languages
+\setmainlanguage{english}
+\setotherlanguage{arabic}
+
+% Arabic font
+\newfontfamily\arabicfont[Script=Arabic]{Arial}
 
 % Graphics
 \usepackage{graphicx}
@@ -26,12 +29,12 @@
 \usepackage{titlesec}
 \usepackage{caption}
 
-% Bibliography (biblatex)
-\usepackage{csquotes} % recommended with biblatex
+% Bibliography
+\usepackage{csquotes}
 \usepackage[style=ieee,backend=biber]{biblatex}
 \addbibresource{references.bib}
 
-% Links (load after most packages)
+% Links
 \usepackage{hyperref}
 \hypersetup{
 	colorlinks=true,
@@ -40,19 +43,16 @@
 	urlcolor=black
 }
 
-
+% Tables & figures
 \usepackage{float}
 \usepackage{booktabs}
-
-% Code blocks
-% NOTE: minted requires compiling with -shell-escape.
-\usepackage{minted}
-
-%-----splitimg----
 \usepackage{subcaption}
 
-%-----link redirection----
-\usepackage{hyperref}
-%---
+% Code blocks
+\usepackage{minted}
+
+% QR codes
 \usepackage{qrcode}
-%--
+
+% Landscape pages
+\usepackage{pdflscape}

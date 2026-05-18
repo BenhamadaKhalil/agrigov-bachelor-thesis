@@ -1,6 +1,7 @@
 %====================================================
 % User Interface Mockups
 %====================================================
+
 \section{User Interface Mockups}
 \label{sec:mockups}
 
@@ -9,27 +10,21 @@ They illustrate how users interact with the system and provide a clear vision of
 
 These mockups were designed to ensure usability, efficiency, and accessibility for all actors of the platform.
 
-
-\subsection{global Interface Structure}
+\subsection{Global Interface Structure}
 According to \cite{pressman2014}, navigation diagrams are used in user interface design to model the interaction flow between screens and to ensure that users can efficiently access system functionalities. They help designers and stakeholders understand how information and actions are organized within the interface.
-
-In the context of the AgriGov Market platform, navigation diagrams are used to represent the navigation paths available to each actor (farmer, buyer, transporter, and administrator), showing how users access the different services provided by the system.
 \begin{figure}[H]
-	\hspace{-2.2cm} % adjust this value
-	\includegraphics[width=1.3\textwidth]{images/navigation/global-navigation}
+	\hspace{-1.5cm} % adjust this value
+	\includegraphics[width=1.2\textwidth]{images/navigation/global-navigation}
 	\caption{Global Navigation Diagram}
 	\label{fig:global-navigation}
 \end{figure}
-
+In the context of the AgriGov Market platform, navigation diagrams are used to represent the navigation paths available to each actor (farmer, buyer, transporter, and administrator), showing how users access the different services provided by the system.
 %----------------------------------------------------
 \subsection{Farmer Interface}
-
-A navigation diagram represents the structure and flow of navigation between the different user interfaces of a system. It illustrates how users move from one screen to another and highlights the relationships between the various pages or functionalities of the application. 
-
-
+The Farmer Interface is designed for agricultural producers who form the supply backbone of the platform. Farmers use this interface to list and manage their products, monitor inventory levels, coordinate transportation logistics, and track incoming orders and invoices. As the primary content providers of the marketplace, farmers interact with both buyers and transporters through this interface, making it a central hub for supply-side operations.
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.9\textwidth]{images/navigation/farmer-navigation}
+	\includegraphics[width=0.7\textwidth]{images/navigation/farmer_nav}
 	\caption{Farmer Navigation Diagram}
 	\label{fig:farmer-navigation}
 \end{figure}
@@ -106,12 +101,14 @@ A navigation diagram represents the structure and flow of navigation between the
 	\caption{Farmer Interface Mockups}
 	\label{fig:farmer-ui}
 \end{figure}
-
+As illustrated in the navigation diagram (Figure~\ref{fig:farmer-navigation}), the farmer's journey begins with authentication, after which a session is established granting access to the central Dashboard. From the dashboard, the farmer can navigate to four main functional areas: the \textbf{Products Management} module allows listing new products, editing existing entries, and viewing product-specific details; the \textbf{Transporters \& Logistics} module enables the creation and dispatch of transportation missions to coordinate product delivery; the \textbf{Orders Management} page provides visibility into incoming buyer requests and purchase history; and the \textbf{Market Prices} page offers real-time reference pricing regulated by the ministry. This branching structure ensures that all core supply-side workflows remain accessible within a minimal number of navigation steps.
 %----------------------------------------------------
 \subsection{Buyer Interface}
+The Buyer Interface caters to commercial purchasers and wholesale consumers seeking to source agricultural products directly from producers. It is optimized for efficient product discovery, transparent specification review, and streamlined procurement. Buyers can browse the marketplace catalog, inspect detailed product attributes, manage their shopping cart, and consult their order history and invoices — all within a clean, friction-reduced environment designed to accelerate the B2B purchasing cycle.
+
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.9\textwidth]{images/navigation/buyer-navigation}
+	\includegraphics[width=0.7\textwidth]{images/navigation/buyer_nav}
 	\caption{Buyer Navigation Diagram}
 	\label{fig:buyer-navigation}
 \end{figure}
@@ -162,12 +159,13 @@ A navigation diagram represents the structure and flow of navigation between the
 	\label{fig:buyer-ui}
 	
 \end{figure}
-
+As shown in the navigation diagram (Figure~\ref{fig:buyer-navigation}), the buyer flow begins with login and session initialization, landing the user on the Home Page. From there, three primary paths branch out: navigating to the \textbf{Marketplace} to browse the product catalog, from which the buyer can select an item to view its \textbf{Product Details} page and subsequently add it to the \textbf{Cart} before proceeding to \textbf{Checkout}; accessing the \textbf{History \& Invoices} page to consult past transactions; and opening the \textbf{Profile} page to review or update personal and business information. The cart also allows returning to the marketplace to continue browsing, supporting iterative multi-product procurement in a single session.
 %----------------------------------------------------
 \subsection{Transporter Interface}
+The Transporter Interface serves logistics personnel responsible for moving agricultural goods between farmers and buyers. Given the mobile-intensive nature of field operations, this interface is designed with a strong emphasis on on-the-go usability while also providing a desktop dashboard for fleet-level oversight. Transporters use this interface to receive and manage delivery missions, track their assignment history, and maintain their profile and registration status within the platform.
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.9\textwidth]{images/navigation/transporter-navigation}
+	\includegraphics[width=0.7\textwidth]{images/navigation/transporter_nav}
 	\caption{Transporter Navigation Diagram}
 	\label{fig:transporter-navigation}
 \end{figure}
@@ -185,16 +183,9 @@ A navigation diagram represents the structure and flow of navigation between the
 		\includegraphics[width=\textwidth]{images/figma/transporter/Transporter Mission Control}
 		\caption{Transporter Mission Control}
 	\end{subfigure}
-	
-	
-	
-	
 \end{figure}
 \begin{figure}[H]
 	\centering
-	
-	
-	
 	\begin{subfigure}[b]{0.17\textwidth}
 		\centering
 		\includegraphics[width=\textwidth]{images/mobile/exports/login}
@@ -223,12 +214,13 @@ A navigation diagram represents the structure and flow of navigation between the
 	\label{fig:transporter-ui}
 	
 \end{figure}
-
+As depicted in the navigation diagram (Figure~\ref{fig:transporter-navigation}), the transporter accesses the system through a login screen leading directly to the \textbf{Dashboard}. From this central view, three navigation paths are available: the \textbf{Missions} page lists all currently available delivery assignments, and selecting a specific mission opens the corresponding \textbf{Mission Details} page with full route and cargo information; the \textbf{Mission History} page provides a chronological log of past completed assignments; and the \textbf{Profile} page, accessible via pending requests, allows the transporter to manage account credentials and onboarding documents. This streamlined flow minimizes navigation overhead for users who primarily operate from mobile devices in the field.
 %----------------------------------------------------
 \subsection{Ministry Interface}
+The Ministry Interface serves as the administrative and regulatory control layer of the platform, accessible exclusively to authorized government personnel. It provides macro-level governance capabilities including user credential validation, market price regulation, product category management, and system-wide oversight through a statistics dashboard. This interface is designed solely for desktop use, reflecting the data-intensive and decision-critical nature of regulatory operations.
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.9\textwidth]{images/navigation/ministry-navigation}
+	\includegraphics[width=0.7\textwidth]{images/navigation/ministry_nav}
 	\caption{Ministry Navigation Diagram}
 	\label{fig:ministry-navigation}
 \end{figure}
@@ -268,3 +260,4 @@ A navigation diagram represents the structure and flow of navigation between the
 	\label{fig:ministry-ui}
 	
 \end{figure}
+As illustrated in the navigation diagram (Figure~\ref{fig:ministry-navigation}), the ministry administrator authenticates through a dedicated login that establishes an admin session, granting access to the \textbf{Home Page} and subsequently the \textbf{Dashboard}. From the dashboard, four major control branches are available: the \textbf{User Management} module allows administrators to review individual user profiles and validate submitted identity or business documents; the \textbf{Market Prices} module provides the ability to consult existing price listings, view product-specific pricing details, and publish new official price caps; the \textbf{Category Management} module supports the creation, modification, and deletion of product taxonomies used across the marketplace; and the \textbf{Regulations} module enables administrators to draft and publish new regulatory entries governing platform conduct. Together, these branches give the ministry complete top-down control over platform integrity and market fairness.

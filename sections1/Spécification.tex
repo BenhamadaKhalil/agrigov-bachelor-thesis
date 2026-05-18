@@ -64,7 +64,7 @@ This section provides a detailed description of the main use cases of the propos
 \end{table}
 
 \begin{figure}[H]
-	\centering
+	\hspace{-1.5cm}
 	\includegraphics[width=1.15\textwidth]{images/diagrammes/Authentication}
 	\caption{System Sequence Diagram -- UC01 Authentication}
 \end{figure}
@@ -117,7 +117,12 @@ This diagram illustrates the interaction between the user and the system during 
 		\end{itemize} \\ 
 		\hline
 		
-		\textbf{Exceptional Sequence} &  / \\ 
+		\textbf{Exceptional Sequence} & 
+		\textbf{E1 -- No Transporter Available in Region}
+		\begin{itemize}
+			\item The system fails to find an available transporter within the specified geographical region.
+			\item The system flags the mission status as pending.
+		\end{itemize} \\ 
 		\hline
 		
 		\textbf{Postcondition} &
@@ -129,7 +134,7 @@ This diagram illustrates the interaction between the user and the system during 
 \end{table}
 
 \begin{figure}[H]
-	\centering
+	\hspace{-1.5cm}
 	\includegraphics[width=1.15\textwidth]{images/diagrammes/DecideMilestone}
 	\caption{System Sequence Diagram -- Decide Delivery Mission}
 \end{figure}
@@ -171,7 +176,13 @@ This diagram shows how the system interacts with the transporter when a delivery
 		\end{enumerate} \\ 
 		\hline
 		
-		\textbf{Alternative Sequence} & / \\ 
+		\textbf{Alternative Sequence} & 
+		\textbf{A1 -- Documents Unclear}
+		\begin{itemize}
+			
+			\item The system requests the user to re-submit clearer information or higher-quality documents.
+			\item The registration request remains in a pending status until the user updates it.
+		\end{itemize} \\ 
 		\hline
 		
 		\textbf{Exceptional Sequence} &
@@ -191,7 +202,7 @@ This diagram shows how the system interacts with the transporter when a delivery
 \end{table}
 
 \begin{figure}[H]
-	\centering
+	\hspace{-1.5cm}
 	\includegraphics[width=1.15\textwidth]{images/diagrammes/userValidation}
 	\caption{System Sequence Diagram -- User Validation}
 \end{figure}
@@ -221,30 +232,37 @@ This diagram represents the validation process handled by the administrator. Aft
 		\hline
 		
 		\textbf{Preconditions} & \begin{itemize}
-			\item The user is authenticated
+			\item The user is authenticated.
 		\end{itemize}  \\ 
 		\hline
 		
 		\textbf{Nominal Sequence} &
 		\begin{enumerate}
-			\item The user enters a keyword.
+			\item The user enters a keyword in the search bar.
 			\item The system processes the request.
 			\item The system displays matching products.
 		\end{enumerate} \\ 
 		\hline
 		
-		\textbf{Alternative Sequence} & / \\ 
+		\textbf{Alternative Sequence} & 
+		\textbf{A1 -- Filtered Search}
+		\begin{itemize}
+			\item The user applies specific search filters (e.g., category, price range, region, or availability).
+			\item The system refines the search query based on the selected parameters.
+			\item The system displays the filtered list of products matching the criteria.
+		\end{itemize} \\ 
 		\hline
 		
 		\textbf{Exceptional Sequence} &
 		\textbf{E1 -- No results found}
 		\begin{itemize}
-			\item The system displays a message.
+			\item The system displays a "No products match your search" message.
+			\item The system suggests alternative keywords or prompts the user to clear applied filters.
 		\end{itemize} \\ 
 		\hline
 		
 		\textbf{Postcondition} &
-		A list of products is displayed. \\ 
+		A list of products matching the user's search or filter criteria is displayed. \\ 
 		\hline
 		
 	\end{tabular}
@@ -300,7 +318,12 @@ This diagram illustrates how the buyer interacts with the system to search for p
 		\end{itemize} \\ 
 		\hline
 		
-		\textbf{Exceptional Sequence} & / \\ 
+		\textbf{Exceptional Sequence} & 
+		\textbf{E1 -- No Pending Orders Found}
+		\begin{itemize}
+			
+			\item The system displays an empty state message (e.g., "No pending orders available") and the use case terminates.
+		\end{itemize} \\ 
 		\hline
 		
 		\textbf{Postcondition} &

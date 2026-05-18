@@ -168,7 +168,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortlocale</bcf:key>
-      <bcf:value>english</bcf:value>
+      <bcf:value>american</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortingtemplatename</bcf:key>
@@ -2398,21 +2398,35 @@
     <bcf:citekey order="18" intorder="1">DjangoProject2024</bcf:citekey>
     <bcf:citekey order="18" intorder="2">Christie2024DRF</bcf:citekey>
     <bcf:citekey order="19" intorder="1">Vercel2024Nextjs</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">PostgreSQLGroup2024</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">NeonTech2024</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">Cloudinary2024</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">TailwindLabs2024</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">Microsoft2024VSCode</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">Chacon2014ProGit</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">OpenAI2024ChatGPT</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">Anthropic2024Claude</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">Perkins2023AIAcademic</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">DjangoProject2024</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">Kaur2023</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">Belhadi2024</bcf:citekey>
-    <bcf:citekey order="32" intorder="1">Chetibietal2026</bcf:citekey>
-    <bcf:citekey order="33" intorder="1">Belhadi2024</bcf:citekey>
-    <bcf:citekey order="34" intorder="1">Seltetal2026</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">RFC7519</bcf:citekey>
+    <bcf:citekey order="20" intorder="2">SimpleJWT2024</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">OttoKristensen2024CORS</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">DjangoFilter2024</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">PostgreSQLGroup2024</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">NeonTech2024</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">Cloudinary2024</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">TailwindLabs2024</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">WhiteNoise2024</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">Wiggins2012TwelveFactor</bcf:citekey>
+    <bcf:citekey order="28" intorder="2">PythonDotenv2024</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">Certifi2024</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">GroqInc2024</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">ChartJS2024</bcf:citekey>
+    <bcf:citekey order="31" intorder="2">ReactChartJS2024</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">AgafonkinLeaflet2024</bcf:citekey>
+    <bcf:citekey order="32" intorder="2">ReactLeaflet2024</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">LucideReact2024</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">Microsoft2024VSCode</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">Chacon2014ProGit</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">OpenAI2024ChatGPT</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">Anthropic2024Claude</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">Perkins2023AIAcademic</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">DjangoProject2024</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">Kaur2023</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">Belhadi2024</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">Chetibietal2026</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">Belhadi2024</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">Seltetal2026</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

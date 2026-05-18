@@ -14,13 +14,21 @@ The technology choices for \textbf{AgriGov Market} were not arbitrary; each tool
 	\item \textbf{Programming Languages:}
 	\begin{itemize}
 		\item \textbf{Python} (backend) — chosen for its readability, its mature ecosystem of web and data libraries, and its first-class support in the Django framework \cite{VanRossumDrake2009}.
+		
 		\item \textbf{TypeScript} (frontend) — a statically typed superset of JavaScript that catches type errors at compile time, which improves reliability and maintainability when working with complex API response objects \cite{MicrosoftTypeScript2024}.
 	\end{itemize}
 	
 	\item \textbf{Frameworks:}
 	\begin{itemize}
 		\item \textbf{Django} (backend) — a high-level Python web framework that enforces the MVT architectural pattern and provides built-in modules for authentication, ORM-based database access, and security. Its companion library \textbf{Django REST Framework (DRF)} was used to expose the application's functionality as a RESTful API, handling serialization, routing, and permission policies \cite{DjangoProject2024,Christie2024DRF}.
+		
 		\item \textbf{Next.js} (frontend) — a React-based framework developed and maintained by Vercel. It was preferred over a plain React application because it provides server-side rendering (SSR) and static generation out of the box, which improves initial page-load performance and SEO. Its App Router also supports clean, file-based routing that maps naturally onto the platform's multi-role structure \cite{Vercel2024Nextjs}.
+		
+		\item \textbf{Django REST Framework SimpleJWT} — used to implement secure JWT-based authentication and token management \cite{RFC7519,SimpleJWT2024}.
+		
+		\item \textbf{django-cors-headers} — used to enable secure communication between the frontend and backend hosted on different origins \cite{OttoKristensen2024CORS}.
+		
+		\item \textbf{django-filter} — used to simplify API filtering and query parameter handling in DRF endpoints \cite{DjangoFilter2024}.
 	\end{itemize}
 	
 	\item \textbf{Database:} \textbf{PostgreSQL} — a production-grade, open-source relational database system. It was selected over lighter alternatives (such as SQLite) because the platform's data model involves multiple related entities (users, products, orders, deliveries, transport assignments) with strict referential integrity constraints. PostgreSQL's support for transactions, foreign keys, and indexing made it the appropriate choice \cite{PostgreSQLGroup2024}.
@@ -30,6 +38,20 @@ The technology choices for \textbf{AgriGov Market} were not arbitrary; each tool
 	\item \textbf{File Storage:} \textbf{Cloudinary} — a cloud-based media management platform used to upload, store, and serve product images and other media files. Rather than storing binary files directly in the database or on the application server (which would complicate deployment and degrade performance), Cloudinary offloads media delivery to a CDN, ensuring fast image loading regardless of the user's location \cite{Cloudinary2024}.
 	
 	\item \textbf{Styling:} \textbf{Tailwind CSS} — a utility-first CSS framework that enables rapid construction of responsive interfaces without writing custom stylesheets. It was chosen to accelerate frontend development and maintain visual consistency across components \cite{TailwindLabs2024}.
+	
+	\item \textbf{Static File Serving:} \textbf{WhiteNoise} — used to serve compressed static assets efficiently in production \cite{WhiteNoise2024}.
+	
+	\item \textbf{Environment and Secret Management:} \textbf{python-dotenv} — used to manage sensitive configuration variables through environment files \cite{Wiggins2012TwelveFactor,PythonDotenv2024}.
+	
+	\item \textbf{TLS Certificate Verification:} \textbf{Certifi} — used to ensure secure HTTPS certificate validation for external services \cite{Certifi2024}.
+	
+	\item \textbf{AI Inference:} \textbf{Groq API} — integrated to provide AI-powered conversational assistance for farmers \cite{GroqInc2024}.
+	
+	\item \textbf{Data Visualisation:} \textbf{Chart.js} and \textbf{react-chartjs-2} — used to display interactive analytics and dashboard charts \cite{ChartJS2024,ReactChartJS2024}.
+	
+	\item \textbf{Interactive Maps:} \textbf{Leaflet} and \textbf{react-leaflet} — used to render geographic information and map-based visualisation features \cite{AgafonkinLeaflet2024,ReactLeaflet2024}.
+	
+	\item \textbf{Icon System:} \textbf{Lucide React} — used to provide scalable and consistent interface icons across the application \cite{LucideReact2024}.
 	
 	\item \textbf{Development Environment:} \textbf{Visual Studio Code} — a lightweight but feature-rich code editor with strong support for Python, TypeScript, Git integration, and extensions for Django and React development \cite{Microsoft2024VSCode}.
 	
